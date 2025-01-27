@@ -7,7 +7,7 @@ website:
   favicon: /img/favicon.ico
   navbar:
     pinned: true
-    logo: /img/BLTB_Logo2.jpg
+    logo: /img/BLTB_Logo_pure.jpg
     collapse-below: lg
     left:
       - href: index.qmd
