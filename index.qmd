@@ -1,5 +1,5 @@
 ---
-title: "Berom Language and Translation Board"
+
 ---
 
 ![](/img/BLTB_Logo2.jpg)
