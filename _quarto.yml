@@ -8,6 +8,7 @@ website:
   navbar:
     pinned: true
     logo: /img/BLTB_Logo2.jpg
+    collapse-below: lg
     left:
       - href: index.qmd
         text: Home
