@@ -2,11 +2,10 @@
 title: "PERE BLTB"
 format:
   html:
-    toc: true
-    code-tools: true
+    toc: false
+    code-tools: false
 ---
 
-# PERE BLTB / BLTB
 
 :::: {.panel-tabset}
 
