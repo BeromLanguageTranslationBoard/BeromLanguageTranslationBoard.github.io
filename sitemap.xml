@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://BeromLanguageTranslationBoard.github.io/index.html</loc>
-    <lastmod>2025-02-13T17:00:22.423Z</lastmod>
+    <loc>https://BeromLanguageTranslationBoard.github.io/blog/2024-February-26_Berom_numbers/counting_in_Berom.html</loc>
+    <lastmod>2025-02-26T12:46:45.739Z</lastmod>
   </url>
   <url>
     <loc>https://BeromLanguageTranslationBoard.github.io/about.html</loc>
-    <lastmod>2025-02-13T17:00:22.422Z</lastmod>
+    <lastmod>2025-02-26T12:46:45.739Z</lastmod>
+  </url>
+  <url>
+    <loc>https://BeromLanguageTranslationBoard.github.io/index.html</loc>
+    <lastmod>2025-02-26T12:46:45.766Z</lastmod>
+  </url>
+  <url>
+    <loc>https://BeromLanguageTranslationBoard.github.io/blog/index.html</loc>
+    <lastmod>2025-02-26T12:46:45.764Z</lastmod>
   </url>
 </urlset>
