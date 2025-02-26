@@ -1,0 +1,52 @@
+---
+title: "List of numbers in Berom (1 to 10999)"
+author: "Ricky Macharm"
+date: "26 February 2025"
+# image: unboxing.webp
+categories: [Berom, counting, numbers] # self-defined categories
+format: html
+execute:
+    eval: true
+jupyter: python3
+---
+
+
+```{python}
+#| echo: false
+import pandas as pd
+import plotly.graph_objects as go
+
+# Load CSV
+df = pd.read_csv("data/Bom_En.csv", engine="pyarrow", encoding="utf-8")
+
+# Define page size
+page_size = 20  # Adjust rows per page
+total_pages = len(df) // page_size + 1
+
+# Create a list of dropdown options
+dropdown_options = [
+    {"label": f"Page {i+1}", "method": "update", "args": [{"cells": [
+        dict(values=[df.iloc[i*page_size:(i+1)*page_size, col].tolist() for col in range(len(df.columns))], align="left")
+    ]}]} for i in range(total_pages)
+]
+
+# Create the initial table (first page)
+fig = go.Figure(data=[go.Table(
+    header=dict(values=list(df.columns), fill_color="lightgrey", align="left"),
+    cells=dict(values=[df.iloc[:page_size, col].tolist() for col in range(len(df.columns))], align="left")
+)])
+
+# Add dropdown for pagination
+fig.update_layout(
+    updatemenus=[{"buttons": dropdown_options, "direction": "down", "showactive": True}],
+    title="Select Page from Dropdown"
+)
+
+# Save as HTML
+fig.write_html("data/Bom_En_table.html")
+
+```
+
+::: {.content-visible when-format="html"}
+```{=html}
+<iframe src="data/Bom_En_table.html" width="100%" height="500px"></iframe>
