@@ -20,4 +20,4 @@ dependencies = [
 
 
 [tool.setuptools]
-py_modules = []  # Tell setuptools there's NO Python package to install
+include-package-data = true
