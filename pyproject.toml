@@ -17,3 +17,7 @@ dependencies = [
     "requests>=2.32.3",
     "scikit-learn>=1.6.1",
 ]
+
+
+[tool.setuptools]
+py_modules = []  # Tell setuptools there's NO Python package to install
