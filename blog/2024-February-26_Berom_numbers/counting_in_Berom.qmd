@@ -14,24 +14,14 @@ jupyter: python3
 ```{python}
 #| echo: false
 import pandas as pd
-import plotly.graph_objects as go
+from itables import show
 
-# Load CSV
 df = pd.read_csv("data/Bom_En.csv", engine="pyarrow", encoding="utf-8")
 
-
-# Create an interactive table
-fig = go.Figure(data=[go.Table(
-    header=dict(values=list(df.columns), fill_color='paleturquoise', align='left'),
-    cells=dict(values=[df[col] for col in df.columns], fill_color='lavender', align='left'))
-])
-
-# Adjust layout for better visualization
-fig.update_layout(title="Berom - English Numbers", height=500)
-
-# Save as HTML
-fig.write_html("data/Bom_En_table.html")
+show(df, 
+maxBytes=1e6,
+)
 ```
-::: {.content-visible when-format="html"}
-```{=html}
-<iframe src="data/Bom_En_table.html" width="100%" height="1000px"></iframe>
+
+
+
