@@ -8,6 +8,7 @@ format: html
 execute:
     eval: true
 jupyter: python3
+
 ---
 
 
@@ -24,6 +25,7 @@ opt.lengthMenu = [10, 20, 30, 50, 100, 250]
 df = pd.read_csv("data/Bom_En.csv", engine="pyarrow", encoding="utf-8")
 
 show(df, "prepared by Ricky Macharm, MScFE",
+classes="display nowrap cell-border",
 maxBytes=1e6, 
 buttons=[
         "pageLength",
