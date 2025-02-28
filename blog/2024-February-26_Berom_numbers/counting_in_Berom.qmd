@@ -14,13 +14,25 @@ jupyter: python3
 ```{python}
 #| echo: false
 import pandas as pd
-from itables import show
+from itables import init_notebook_mode, show
+import itables.options as opt
+init_notebook_mode(all_interactive=True)
+
+# show 5 rows per 'page'
+opt.lengthMenu = [10, 20, 30, 50, 100, 250]
 
 df = pd.read_csv("data/Bom_En.csv", engine="pyarrow", encoding="utf-8")
 
-show(df, 
-maxBytes=1e6,
+show(df, "prepared by Ricky Macharm, MScFE",
+maxBytes=1e6, 
+buttons=[
+        "pageLength",
+        {"extend": "csvHtml5", "title": "Ricky's BeromNumbers"},
+        {"extend": "pdfHtml5", "title": "Ricky's BeromNumber"},
+    ],
+    
 )
+
 ```
 
 
