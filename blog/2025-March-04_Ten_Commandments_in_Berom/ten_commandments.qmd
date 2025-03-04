@@ -1,0 +1,59 @@
+---
+title: "Ten Commandments in Berom"
+author: "Ricky Macharm"
+date: "04 March 2025"
+image: Ten_Commandments.jpeg
+categories: [Berom, English, Ten Commandments] # self-defined categories
+format: html
+execute:
+    eval: true
+jupyter: python3
+
+---
+
+:::: {.panel-tabset}
+
+### Berom    
+1. Hwo vɔk bedagwi behak detu na me wɛt.
+
+2. Hwo ra fwom na rezâ Dagwi Darwey, Dagwi mō, e gwong vwes wɛt, yaga a rɔda hàla a mwat de a ra fwom vwes na reza mɛ wɛt.
+
+3. Gyeng Tuk Shábat, yaga ha sé tuk de Dagwi a tik hɛ zɛɛt.
+
+4. Nɔ̂ng da mō na neng mō nerey. Ano nepɔlɔ mō nê gwɛ̌ hɛn e sevwel de Dagwi Darwey, Dagwi mō, a sé nɔng o.
+
+5. Hwo mɔrɔ mwat wɛt.
+
+6. Hwo ra nejwang wɛt.
+
+7. Hwo shigi wɛt.
+
+8. Hwo nɔng nuha bɔs e ra mwat hwak wɛt.
+
+9. Hwo mara-yis e ra pyɛ̂ lɔ mwat hwak wɛt. 
+
+10. Hwo mara-yis e ra hwā mwat hwak wɛt, kɛ sam mɛ, rwas o kɛ hwā mo, kɛ rɔndɔng mɛ, kɛ madung mɛ, kɛ kayɛ pyɛ de ya sé myɛ.
+
+
+### English    
+1. You shall have no other gods before me.
+
+2. You shall not take the name of the Lord your God in vain, for the Lord will not hold him guiltless who takes his name in vain.
+
+3. Remember the Sabbath day, to keep it holy. 
+
+4. Honor your father and your mother, that your days may be long in the land that the Lord your God is giving you.
+
+5. You shall not murder.
+
+6. You shall not commit adultery.
+
+7. You shall not steal.
+
+8. You shall not bear false witness against your neighbor.
+
+9. You shall not covet your neighbor's house;
+
+10. you shall not covet your neighbor's wife, or his male servant, or his female servant, or his ox, or his donkey, or anything that is your neighbor's
+::::
+
