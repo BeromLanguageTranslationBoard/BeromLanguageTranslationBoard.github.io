@@ -1,5 +1,5 @@
 ---
-title: "Ten Commandments in Berom"
+title: "Badu Dagwi kuru"
 author: 
     - "Ricky Macharm"
     - "Lucky Zam"
