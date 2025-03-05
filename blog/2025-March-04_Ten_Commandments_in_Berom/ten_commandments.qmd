@@ -1,8 +1,8 @@
 ---
 title: "Badu Dagwi kuru"
 author: 
-    - "Ricky Macharm"
     - "Lucky Zam"
+    - "Ricky Macharm"
 date: "04 March 2025"
 image: Ten_Commandments.jpeg
 categories: [Berom, English, Ten Commandments] # self-defined categories
