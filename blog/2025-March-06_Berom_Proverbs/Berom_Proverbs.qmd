@@ -1,0 +1,37 @@
+---
+title: "Cīnat neha Berom"
+author: 
+    - "Habila Dachollom"
+    - "Ricky Macharm"
+date: "06 March 2025"
+image: Berom_Proverbs.jpeg
+categories: [Berom, English, Cīnat neha, Proverbs] # self-defined categories
+format: html
+execute:
+    eval: true
+jupyter: python3
+
+---
+
+:::: {.panel-tabset}
+
+### Berom    
+Kya ha re beta ha tik sɔng
+
+
+### English    
+Fire has consumed rocks, leaving the grass unharmed.
+::::
+
+
+This proverb is used when a well-known hero or champion is unexpectedly defeated by an unknown or insignificant opponent in a contest.  
+
+A good way to understand this is by recalling the biblical story of **David and Goliath** (1 Samuel 17). In the story, David, a mere shepherd boy, defeats Goliath, the mighty Philistine warrior. Similarly, when a celebrated figure loses to an underdog in a game, fight, or competition, they often struggle to openly admit their defeat.  
+
+Instead, the defeated hero and their supporters might describe the outcome using the phrase:  
+
+**"Kya ha re beta ha tik sɔng."**  
+
+This expression reflects their reluctance to acknowledge the unexpected loss.
+
+
