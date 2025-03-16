@@ -1,0 +1,106 @@
+---
+title: "Sɛlɛ rato mo"
+author: 
+    - "Lucky Zam"
+    - "Ricky Macharm"
+date: "06 March 2025"
+image: sele_rato_mo.jpeg
+categories: [Berom, English, Lele, ] # self-defined categories
+format: html
+execute:
+    eval: true
+jupyter: python3
+
+---
+
+:::: {.panel-tabset}
+
+### SƐLƐ RATO MO
+Dagwi a yong kayɛ pyɛ 
+Ko a hala pyɛ cak wɛt
+Ra pyɛ de hwo tɔk ra a remo
+A gwa hom
+sɛlɛ rato mo
+
+Jey ya se tolot
+Kye hywɛ
+Weneng ha se horos
+Ra pyɛ de hwo tɔk ra a remo
+A gwa hom
+sɛlɛ rato mo
+
+Gwi gwa ro shara negbey
+Pwɛl gwa ro ra sede hwey
+Ra pyɛ de hwo tɔk ra a remo
+A gwa hom
+sɛlɛ rato mo
+
+Hwa ra a yɛn narang
+Ba jut wɛt
+Hwa yang ɛn shou
+Ba toyo a ho wɛt
+Ra pyɛ de hwo tɔk ra a remo
+A gwa hom
+sɛlɛ rato mo
+
+Sangal jey ha sɛ sede
+Re vat e nazɛng
+Be niri zɔng
+Ko be yong vɛ
+Ra pyɛ de hwo tɔk ra a remo
+A gwa hom
+sɛlɛ rato mo
+
+Nejwang ná toyo e lo rwas mɛ wɛt
+Njɛm na rongol e gwad sa rwas mɛ
+Ra pyɛ de hwo tɔk ra a remo
+A gwa hom
+sɛlɛ rato mo
+
+
+### HELP YOURSELF    
+God created everything
+And He hasn't let go of anything 
+Do what you can now
+O my brother/sister
+Help yourself 
+
+The world is slippery
+Take it easy
+Marriage is single
+Do what you can now 
+O my brother/sister
+Help yourself 
+
+The sun is still shining 
+The moon is still acting like a child 
+Do what you can now 
+O my brother/sister
+Help yourself 
+
+You called them on the phone 
+They didn't pick up 
+You said hello 
+They didn't answer you 
+Do what you can now 
+O my brother/sister
+Help yourself 
+
+Life on earth is like 
+Eating the vat plant in the dry season 
+It takes only patience to fix it
+Do what you can now 
+O my brother/sister 
+Help yourself 
+
+Adultery has not returned to her husband's house 
+Concubine is still in her husband's friend's bed
+Do what you can now 
+O my brother/sister 
+Help yourself
+::::
+
+
+
+
+
