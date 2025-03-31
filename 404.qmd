@@ -7,9 +7,9 @@ editor: visual
 
 # Oops! Page Not Found 😢
 
-![Lost?](/img/wurom_ase_wurom.jpeg){ width=400 }
+![](/img/wurom_ase_wurom.jpeg){ width=400 }
 
 
 We couldn't find the page you're looking for.
 
-[Go back to the homepage](/)
+[Page of Blog posts](https://beromlanguagetranslationboard.github.io/blog/)
