@@ -1,5 +1,8 @@
 project:
   type: website
+  resources: 
+    - img/wurom_ase_wurom.jpeg
+    - 404.html
 
 website:
   title: "Berom Language and Translation Board"

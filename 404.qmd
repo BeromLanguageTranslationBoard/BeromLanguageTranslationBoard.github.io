@@ -1,0 +1,15 @@
+---
+title: "Page Not Found"
+format: html
+freeze: true
+editor: visual
+---
+
+# Oops! Page Not Found 😢
+
+![Lost?](/img/wurom_ase_wurom.jpeg){ width=400 }
+
+
+We couldn't find the page you're looking for.
+
+[Go back to the homepage](/)
