@@ -1,11 +1,10 @@
 ---
 title: "Sɛlɛ rato mo"
 author: 
-    - "Lucky Zam"
-    - "Ricky Macharm"
+    - name: "Lucky Zam"
 date: "06 March 2025"
 image: sele_rato_mo.jpeg
-categories: [Berom, English, Lele, ] # self-defined categories
+categories: [Berom, English, Lɛlɛ,] # self-defined categories
 format: html
 execute:
     eval: true
@@ -99,6 +98,9 @@ Do what you can now <br>
 O my brother/sister <br>
 Help yourself <br>
 ::::
+
+*Edited by Ricky Macharm.*
+
 
 
 

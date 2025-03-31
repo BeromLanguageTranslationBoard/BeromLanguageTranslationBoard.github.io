@@ -2,7 +2,6 @@
 title: "Cīnat neha Berom"
 author: 
     - "Habila Dachollom"
-    - "Ricky Macharm"
 date: "06 March 2025"
 image: Berom_Proverbs.jpeg
 categories: [Berom, English, Cīnat neha, Proverbs] # self-defined categories
@@ -33,5 +32,7 @@ Instead, the defeated hero and their supporters might describe the outcome using
 **"Kya ha re beta ha tik sɔng."**  
 
 This expression reflects their reluctance to acknowledge the unexpected loss.
+
+*Edited by Ricky Macharm.*
 
 
