@@ -13,6 +13,6 @@ toc: False
 
 We couldn't find the page you're looking for.
 
-[Page of Blog posts](https://beromlanguagetranslationboard.github.io/blog/)
+[Go back to the homepage](/)
 
 <meta http-equiv="refresh" content="5;url=https://beromlanguagetranslationboard.github.io/blog/">
