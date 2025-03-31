@@ -3,6 +3,7 @@ title: ""
 format: html
 freeze: true
 editor: visual
+toc: False
 ---
 
 # Oops! Page Not Found 😢
@@ -13,3 +14,5 @@ editor: visual
 We couldn't find the page you're looking for.
 
 [Page of Blog posts](https://beromlanguagetranslationboard.github.io/blog/)
+
+<meta http-equiv="refresh" content="5;url=https://beromlanguagetranslationboard.github.io/blog/">
