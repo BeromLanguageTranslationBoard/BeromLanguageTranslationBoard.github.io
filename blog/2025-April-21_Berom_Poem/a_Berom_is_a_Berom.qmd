@@ -1,0 +1,71 @@
+---
+title: "Wurom a sé wurom"
+author: 
+    - "Ricky Macharm"
+date: "21 April 2025"
+image: wurom.jpeg
+categories: [Berom, English, Lɛlɛ, ] # self-defined categories
+format: html
+execute:
+    eval: true
+jupyter: python3
+
+---
+
+
+:::: {.panel-tabset}
+
+### WUROM A SÉ WUROM
+
+Gyirik yi e raku<br>
+De bale ba bang tɛ̂t mEn<br>
+beras na beha<br>
+Na nèy mɛn arɔng<br>
+Wurom a sé Wurom<br>
+
+Vɔ beras o ba vɔk gap sede cɔ́gɔt<br>
+Ko shɛgɛsh beha ro be tok tɛ̀ netyang<br>
+Ko ney o na se e ji yey pyɛng  kaye jeng<br>
+Ko pyɛ de yɛn e simo na yin e tɔk e yE a<br>
+Wurom a sé Wurom<br>
+
+Wot a sé bemat besi, kasâng a wot<br>
+Wot e boros e ji netyang<br>
+Ha Ne hyul-hyul babek mot<br>
+ne shara hɛn bagat na yikyik<br>
+Wurom a sé wurom<br>
+
+Gwi gwa vɔk reto<br>
+ko gwa sé rwat<br>
+Mwat de a yông gwɛ a sé Wo Reto Mwa<br>
+wot e yila hɛ “Dagwi” gbak-gbak<br>
+Ano da bedabeda mot ba ha a wot<br>
+Wurom a sé wurom<br>
+
+### A Berom is a Berom
+
+Coming down from the hills<br>
+Whose tops are hidden in the clouds<br>
+A group of men and women<br>
+And their children too<br>
+A Berom is Berom<br>
+
+The men with arms as strong as trees<br>
+And the women with smiles that could heal<br>
+The children joyous as ever<br>
+And all they want you to know is<br>
+A Berom is Berom<br>
+
+We are a people dark and lovely<br>
+radiant and healthy<br>
+The stories of our smooth skin<br>
+Is known far and wide<br>
+A Berom is Berom<br>
+
+The sun is powerful and useful<br>
+Whoever created it most be mighty<br>
+We refer to him as God forever<br>
+So our ancestor believed<br>
+A Berom is Berom<br>
+
+*Edited by Lucky Zam*
