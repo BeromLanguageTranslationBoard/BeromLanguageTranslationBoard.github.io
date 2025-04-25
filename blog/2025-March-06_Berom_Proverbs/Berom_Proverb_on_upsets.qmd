@@ -4,7 +4,7 @@ author:
     - "Habila Dachollom"
 date: "06 March 2025"
 image: Berom_Proverbs.jpeg
-categories: [Berom, English, Cīnat neha, Proverbs] # self-defined categories
+categories: [Berom, English, Cīnat neha, Proverbs, upsets] # self-defined categories
 format: html
 execute:
     eval: true

@@ -1,0 +1,26 @@
+---
+title: "Cīnat neha Berom"
+author: 
+    - "Habila Dachollom"
+date: "25 April 2025"
+image: more_berom_proverbs.jpeg
+categories: [Berom, English, Cīnat neha, Proverbs, Endurance] # self-defined categories
+format: html
+execute:
+    eval: true
+jupyter: python3
+
+---
+
+:::: {.panel-tabset}
+
+### Berom    
+Hwɔs sam, hywɛp gwom.
+
+
+### English    
+A slave during the rainy (planting) season; a king at harvest.
+::::
+
+
+The proverb teaches that hard work leads to great rewards. It compares farming to life's endeavors: during planting season, one must work diligently like a servant, but at harvest time, one enjoys abundance like royalty. This wisdom applies to any investment of time, money, or effort. Initially, you must toil without immediate results, but persistence leads to significant rewards. This concept mirrors the English saying "Nothing ventured, nothing gained." When someone hesitates to make an investment—like a parent worried about school fees—this proverb offers encouragement that initial sacrifice leads to valuable returns.
