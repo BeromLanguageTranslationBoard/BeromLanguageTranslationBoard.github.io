@@ -1,0 +1,121 @@
+---
+title: "Lɛm Berom"
+author: 
+    - "Lucky Zam"
+date: "17 June 2025"
+image: lem_berom.png
+categories: [Lɛm Berom, Berom Language] # self-defined categories
+format: html
+execute:
+    eval: true
+jupyter: python3
+
+---
+
+:::: {.panel-tabset}
+
+### LƐM BEROM    
+Ma se wok gul<br>
+Yaga ma vɔk rugu wɛt<br>
+Yin a di ma se yuu<br>
+Yaga nu hom he tɔk bang mɛ wɛt<br>
+Sede yin a yong e yey min<br>
+Na yin e sɛlɛ me gwamin<br>
+Ko a tɛ gbing gbing<br>
+Na yin e ra pyɛ jining<br>
+(Yin) bang me na rugu lɛm BEROM<br>
+
+
+
+Kwon ha sɛ mwangalang<br>
+Mwangalang sede ne mwangalang mwangalang<br>
+Ma jut mwɛlɛng<br>
+Ma jut yege ko ma gaba<br>
+Vwel o ha yang me<br>
+Sogo yi e ra bek hom<br>
+Za a hom a vwel Berom<br>
+Sede be nong o negbey<br>
+Be nong o negbey lɛm Berom<br>
+
+
+
+Di<br>
+Netyang na pɔlɔ lis<br>
+Yas tanga necik<br>
+Ba ro hɛn ding ding<br>
+Ma wo da yɛn e duk hwal min<br>
+De netyang na polo lis<br>
+Na yas na necik<br>
+Ba di wo duk hwal o<br>
+Na behal o<br>
+Be to como na vwel Berom<br>
+
+
+Yɛn a kaba a me fwong<br>
+Ba hoto fwong o<br>
+Fwong o gwa hwo tosho<br>
+Yaga neroyo mo<br>
+Na se sede yom<br>
+De ba hongo e gwo fwa<br>
+Hongo ndom<br>
+Yɛn a ye<br>
+À so mot, à so mot, à so mot<br>
+Sede hwo simo<br>
+Na wot e sogo<br>
+Yi e gwad yom gwomo<br>
+Kambok, pat ot<br>
+Yi e ngamo<br>
+Hwo wo na wot<br>
+E duk hwal lɛm BEROM<br>
+
+
+### BEROM LANGUAGE   
+I'm cold<br>
+Because I don't have clothes<br>
+You can see that I'm silent<br>
+Because my lips can't blanket me<br>
+When you plan in your hearts<br>
+To help me your brother<br>
+Then it is necessary<br>
+For you to do one thing<br>
+You should blanket me with the cloth of the Berom language<br>
+
+The place is dark<br>
+It is dark like the darkness of the dark<br>
+I turned left<br>
+I turned right then I fell<br>
+The ground said to me<br>
+Get off my body<br>
+My name is Berom land<br>
+If you'll be given the light<br>
+You'll be given the light of the Berom language<br>
+
+See<br>
+Prosperity and longevity<br>
+Wealth and righteousness<br>
+became very ill<br>
+So I took them to your hospital<br>
+But when prosperity and longevity<br>
+and wealth and righteousness<br>
+saw that the hospital<br>
+and the medication<br>
+Wage war against Berom land<br>
+They held my ear<br>
+They pulled the ear<br>
+The ear began to cry<br>
+Because of the excruciating pain<br>
+that was like the suffering<br>
+that was ground on a grinding stone<br>
+of poison<br>
+They said<br>
+O our son, O our son, O our son<br>
+If you want us<br>
+to rise<br>
+from this bed of suffering<br>
+Please, take us away<br>
+from here<br>
+then move us<br>
+to the hospital of Berom language<br>
+::::
+
+
