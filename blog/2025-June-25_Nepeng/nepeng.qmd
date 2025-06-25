@@ -4,7 +4,7 @@ author:
     - "Lucky Zam"
 date: "25 June 2025"
 image: lem_berom.png
-categories: [Nepɛng, poverty, Berom Language] # self-defined categories
+categories: [Nepɛng, poverty,] # self-defined categories
 format: html
 execute:
     eval: true
