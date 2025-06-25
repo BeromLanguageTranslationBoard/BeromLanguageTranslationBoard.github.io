@@ -3,7 +3,7 @@ title: "Lɛm Berom"
 author: 
     - "Lucky Zam"
 date: "17 June 2025"
-image: lem_berom.png
+image: Nepɛng.png
 categories: [Lɛm Berom, Berom Language] # self-defined categories
 format: html
 execute:
