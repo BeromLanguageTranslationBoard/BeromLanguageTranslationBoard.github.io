@@ -3,6 +3,7 @@ title: "Sɛlɛ rato mo"
 author: 
     - name: "Lucky Zam"
 date: "06 March 2025"
+date-format: MMM D, YYYY
 image: sele_rato_mo.jpeg
 categories: [Berom, English, Lɛlɛ,] # self-defined categories
 format: html

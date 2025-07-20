@@ -3,6 +3,7 @@ title: "Nepɛng"
 author: 
     - "Lucky Zam"
 date: "25 June 2025"
+date-format: MMM D, YYYY
 image: Nepɛng.png
 categories: [Nepɛng, poverty,] # self-defined categories
 format: html

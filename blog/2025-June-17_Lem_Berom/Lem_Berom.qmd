@@ -3,6 +3,7 @@ title: "Lɛm Berom"
 author: 
     - "Lucky Zam"
 date: "17 June 2025"
+date-format: MMM D, YYYY
 image: lem_berom.png
 categories: [Lɛm Berom, Berom Language] # self-defined categories
 format: html

@@ -18,6 +18,8 @@ website:
       - about.qmd
       - href: blog/index.qmd
         text: Blog
+      - href: News/index.qmd
+        text: News
 
 format:
   html:

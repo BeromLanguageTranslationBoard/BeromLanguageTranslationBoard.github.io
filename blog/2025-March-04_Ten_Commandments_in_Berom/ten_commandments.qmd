@@ -4,6 +4,7 @@ author:
     - "Lucky Zam"
     - "Ricky Macharm"
 date: "04 March 2025"
+date-format: MMM D, YYYY
 image: Ten_Commandments.jpeg
 categories: [Berom, English, Ten Commandments, Badu, Dagwi, kuru] # self-defined categories
 format: html

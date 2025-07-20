@@ -3,6 +3,7 @@ title: "Wurom a sé wurom"
 author: 
     - "Ricky Macharm"
 date: "21 April 2025"
+date-format: MMM D, YYYY
 image: wurom.jpeg
 categories: [Berom, English, Lɛlɛ, ] # self-defined categories
 format: html

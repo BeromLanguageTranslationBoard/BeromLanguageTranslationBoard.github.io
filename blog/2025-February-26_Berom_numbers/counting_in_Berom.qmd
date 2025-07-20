@@ -2,6 +2,7 @@
 title: "List of numbers in Berom (1 to 10999)"
 author: "Ricky Macharm"
 date: "26 February 2025"
+date-format: MMM D, YYYY
 image: Berom_numbers_image.jpeg
 categories: [Berom, counting, numbers] # self-defined categories
 format: html

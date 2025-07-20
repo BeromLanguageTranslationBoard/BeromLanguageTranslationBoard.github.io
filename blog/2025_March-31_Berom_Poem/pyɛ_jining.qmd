@@ -3,6 +3,7 @@ title: "Pyɛ jining"
 author: 
     - "Lucky Zam"
 date: "31 March 2025"
+date-format: MMM D, YYYY
 image: we_are_one.jpeg
 categories: [Berom, English, Lɛlɛ, ] # self-defined categories
 format: html

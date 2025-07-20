@@ -1,0 +1,16 @@
+---
+title: "BLTB News"
+# subtitle: "Posts written by the sons and daughters of Beromland"
+listing:
+  # contents: blog
+  sort: "date desc"
+  type: default
+  image-align: right
+  max-description-length: 175
+  date-format: MMM YYYY
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---

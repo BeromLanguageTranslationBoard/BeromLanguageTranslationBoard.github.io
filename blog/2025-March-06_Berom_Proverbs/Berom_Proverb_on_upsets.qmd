@@ -3,6 +3,7 @@ title: "Cīnat neha Berom"
 author: 
     - "Habila Dachollom"
 date: "06 March 2025"
+date-format: MMM D, YYYY
 image: Berom_Proverbs.jpeg
 categories: [Berom, English, Cīnat neha, Proverbs, upsets] # self-defined categories
 format: html
