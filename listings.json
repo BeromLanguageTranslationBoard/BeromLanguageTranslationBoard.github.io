@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/News/index.html",
+    "items": []
+  },
+  {
     "listing": "/blog/index.html",
     "items": [
       "/blog/2025-June-25_Nepeng/nepeng.html",
@@ -7,8 +11,8 @@
       "/blog/2025-April-25_Berom_Proverbs/Berom_Proverb_on_Endurance.html",
       "/blog/2025-April-21_Berom_Poem/a_Berom_is_a_Berom.html",
       "/blog/2025_March-31_Berom_Poem/pyɛ_jining.html",
-      "/blog/2025-March-16_Berom_Poem/help_yourself.html",
       "/blog/2025-March-06_Berom_Proverbs/Berom_Proverb_on_upsets.html",
+      "/blog/2025-March-16_Berom_Poem/help_yourself.html",
       "/blog/2025-March-04_Ten_Commandments_in_Berom/ten_commandments.html",
       "/blog/2025-February-26_Berom_numbers/counting_in_Berom.html"
     ]
