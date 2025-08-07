@@ -1,13 +1,8 @@
 [
   {
-    "listing": "/News/index.html",
-    "items": [
-      "/News/Neha_e_ra_fwom_2025/neha_e_ra_fwom_de_bltb_a_se_ra_e_shey_2025.html"
-    ]
-  },
-  {
     "listing": "/blog/index.html",
     "items": [
+      "/blog/2025-July-21_Berom_Proverb/proverb_on_similarities.html",
       "/blog/2025-June-25_Nepeng/nepeng.html",
       "/blog/2025-June-17_Lem_Berom/Lem_Berom.html",
       "/blog/2025-April-25_Berom_Proverbs/Berom_Proverb_on_Endurance.html",
@@ -17,6 +12,12 @@
       "/blog/2025-March-16_Berom_Poem/help_yourself.html",
       "/blog/2025-March-04_Ten_Commandments_in_Berom/ten_commandments.html",
       "/blog/2025-February-26_Berom_numbers/counting_in_Berom.html"
+    ]
+  },
+  {
+    "listing": "/News/index.html",
+    "items": [
+      "/News/Neha_e_ra_fwom_2025/neha_e_ra_fwom_de_bltb_a_se_ra_e_shey_2025.html"
     ]
   }
 ]
