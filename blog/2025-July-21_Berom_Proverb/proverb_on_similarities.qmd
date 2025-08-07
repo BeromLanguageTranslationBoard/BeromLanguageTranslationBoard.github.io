@@ -1,0 +1,31 @@
+---
+title: "Cīnat neha Berom"
+author: 
+    - "Habila Dachollom"
+date: "21 July, 2025"
+date-format: MMM D, YYYY
+image: like_father.jpeg
+categories: [Berom, English, Cīnat neha, Proverbs, Similarities] # self-defined categories
+format: html
+execute:
+    eval: true
+jupyter: python3
+
+---
+
+:::: {.panel-tabset}
+
+### Berom    
+Cɔ̀ ye tɔ yě wet.
+
+
+### English    
+A plant known for its sour sap cannot bear the fruit of that known for its sweetness.
+::::
+
+
+A proverb similar to the these English sayings:
+* "The apple doesn't fall far from the tree"
+* "A chip off the old block"
+* "Like father, like son" / "Like mother, like daughter" 
+* "The acorn doesn't fall far from the oak"
