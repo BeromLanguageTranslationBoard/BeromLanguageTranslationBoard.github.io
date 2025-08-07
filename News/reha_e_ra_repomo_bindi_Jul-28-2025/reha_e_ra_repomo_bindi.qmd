@@ -4,7 +4,7 @@ author:
     - "Sarah Niya"
 date: "28 July, 2025"
 date-format: MMM YYYY
-categories: [Repomo, Ryom,] # self-defined categories
+categories: [Repomo, Ryom, Segwɔm Vwel, ] # self-defined categories
 format: html
 execute:
     eval: true
@@ -16,14 +16,13 @@ jupyter: python3
 
 ### REHA E RA REPOMO BINDI HE SEGWOM VWEL SEL O HE RIYOM    
 
-Á sè e rwey gasi tuk fwom hê mba polo pwɛl July 15, 2025 de kepomo de be yila ke a Bindi e Segwɔm Vwel sel o hê Riyom e Bak Vwel Plato, Nijeriya de beda ngyi ba wɔ̀ hwo e ra yɛn.
+Á sè e rwey gasi tuk fwom hê mba polo pwɛl July 15, 2025 de kepomo de be yila ke a Bindi e Segwɔm Vwel sel o hê Riyom e Bak Vwel Plato, Najeriya de beda ngyi ba wɔ̀ hwo e ra yɛn.
 
 Bá ha wɔgɔ á sè bop nagasi jeng de bemat ba rongol e dyenge ko behak ba ga kana yel e duk wusal yaga won nagasi de beda ngyi vemo de be mobos bemat ba vey pyak a hɛn ko ba hwo tabas kpɛɛ. Ko yen ba hwo yeles e nelo vivining be raa na mobos bemat na rangas nelo mo. Ba mobos behak jeng de ba sè tele na be hywit ɛn, a remo de beda ngyi mo ba ga rɔnɔ kepomo mo mwa.
 
 Jeng de ba rangal bemat o ke bedem ba sè bagat wɛt arɛt. Yɛn a ye, kwɔn tumal bedem há se sede lyoso 200-500 yi e kepomo mo ko ba ká ve sey en wet. Ko jeng de ba rangal bedem o, yɛn a ye beda-ngyi mo ba dul ɛn sana kwey vok e kepomo mo. Bemat de ba mobos ba sé Kuru beba na ve betaama (27) bwarwey mɛn ba sé beha na nèy tanga bemakuk. 
 
-Bá lɛrɛ hɛn tuk Tungun fwom July 25, 2025 , e tê  sogo nehywɛ na Bemat gyeng netyang vwel. Dâ Vwel Plato na bemat raa me , Bemat Cuna na beDagwɔm na begwɔm tanga bemat pyak sizɔng bà sě e hwomo.
-
+Bá lɛrɛ hɛn tuk Tungun fwom July 25, 2025, e tê  sogo nehywɛ na Bemat gyeng netyang vwel. Dâ Vwel Plato na bemat raa me, Bemat Cuna na beDagwɔm na begwɔm tanga bemat pyak sizɔng bà sě e hwomo.
 
 ### NEWS REPORT ON THE VILLAGE OF BINDI IN RIYOM
 
