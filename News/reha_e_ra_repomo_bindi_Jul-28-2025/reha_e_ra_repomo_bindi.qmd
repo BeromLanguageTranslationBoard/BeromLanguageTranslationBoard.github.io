@@ -12,7 +12,7 @@ jupyter: python3
 
 ---
 
-:::: {.panel-tabset}
+::: {.panel-tabset}
 
 ### REHA E RA REPOMO BINDI HE SEGWOM VWEL SEL O HE RIYOM    
 
@@ -35,6 +35,6 @@ When asked whether there were any security personnel nearby, villagers said that
 
 The assault claimed the lives of 27 people, many of whom were women, children, and the elderly. The mass burial was held on Friday, July 25, 2025, under tight security and amid heightened tension. The event was attended by the state governor and his entourage, several politicians, traditional rulers, and a massive crowd of mourners.
 
-::::
+:::
 
 
