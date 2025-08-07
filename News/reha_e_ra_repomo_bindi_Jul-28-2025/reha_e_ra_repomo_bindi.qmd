@@ -14,26 +14,13 @@ jupyter: python3
 
 ::: {.panel-tabset}
 
-### REHA E RA REPOMO BINDI HE SEGWOM VWEL SEL O HE RIYOM    
+### Tab A
 
-Á sè e rwey gasi tuk fwom hê mba polo pwɛl July 15, 2025 de kepomo de be yila ke a Bindi e Segwɔm Vwel sel o hê Riyom e Bak Vwel Plato, Najeriya de beda ngyi ba wɔ̀ hwo e ra yɛn.
+Content for `Tab A`
 
-Bá ha wɔgɔ á sè bop nagasi jeng de bemat ba rongol e dyenge ko behak ba ga kana yel e duk wusal yaga won nagasi de beda ngyi vemo de be mobos bemat ba vey pyak a hɛn ko ba hwo tabas kpɛɛ. Ko yen ba hwo yeles e nelo vivining be raa na mobos bemat na rangas nelo mo. Ba mobos behak jeng de ba sè tele na be hywit ɛn, a remo de beda ngyi mo ba ga rɔnɔ kepomo mo mwa.
+### Tab B
 
-Jeng de ba rangal bemat o ke bedem ba sè bagat wɛt arɛt. Yɛn a ye, kwɔn tumal bedem há se sede lyoso 200-500 yi e kepomo mo ko ba ká ve sey en wet. Ko jeng de ba rangal bedem o, yɛn a ye beda-ngyi mo ba dul ɛn sana kwey vok e kepomo mo. Bemat de ba mobos ba sé Kuru beba na ve betaama (27) bwarwey mɛn ba sé beha na nèy tanga bemakuk. 
-
-Bá lɛrɛ hɛn tuk Tungun fwom July 25, 2025, e tê  sogo nehywɛ na Bemat gyeng netyang vwel. Dâ Vwel Plato na bemat raa me, Bemat Cuna na beDagwɔm na begwɔm tanga bemat pyak sizɔng bà sě e hwomo.
-
-### NEWS REPORT ON THE VILLAGE OF BINDI IN RIYOM
-
-In the early hours of Tuesday, July 15, 2025, the village of Bindi in Riyom Local Government Area of Plateau State, Nigeria, was attacked and taken over by Fulani militias.
-
-According to reports, the attack began at dawn, when many residents were still asleep while others had already gathered in church for early morning prayers. The militias, arriving in large numbers, began shooting sporadically. They moved from house to house, killing residents and setting homes ablaze. Some victims were gunned down while attempting to flee, as the entire village had already been surrounded.
-
-When asked whether there were any security personnel nearby, villagers said that a security checkpoint was located just 200 to 500 meters from Bindi. However, no help came during the attack. When questioned, the security personnel claimed that the militias had blocked their access route into the village, preventing any intervention.
-
-The assault claimed the lives of 27 people, many of whom were women, children, and the elderly. The mass burial was held on Friday, July 25, 2025, under tight security and amid heightened tension. The event was attended by the state governor and his entourage, several politicians, traditional rulers, and a massive crowd of mourners.
+Content for `Tab B`
 
 :::
-
 
