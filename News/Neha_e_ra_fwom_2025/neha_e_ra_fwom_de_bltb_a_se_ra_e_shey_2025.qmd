@@ -2,7 +2,7 @@
 title: "NEHA E RA FWOM DE BLTB A SE RA E SHEY ̀2025"
 author: 
     - "Habila Dachollom"
-date: "July 2025"
+date: "July 14, 2025"
 date-format: MMM YYYY
 # image: more_berom_proverbs.jpeg
 categories: [Report, Neha, Fwom] # self-defined categories
