@@ -14,11 +14,11 @@ jupyter: python3
 
 ::: {.panel-tabset}
 
-### Tab A
+### REHA E RA REPOMO BINDI HE SEGWOM VWEL SEL O HE RIYOM
 
 Content for `Tab A`
 
-### Tab B
+### NEWS REPORT ON THE VILLAGE OF BINDI IN RIYOM
 
 Content for `Tab B`
 
