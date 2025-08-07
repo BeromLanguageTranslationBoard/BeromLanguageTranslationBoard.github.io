@@ -3,7 +3,7 @@ title: "NEHA E RA FWOM DE BLTB A SE RA E SHEY ̀2025"
 author: 
     - "Habila Dachollom"
 date: "July 14, 2025"
-date-format: MMM YYYY
+date-format: MMM D, YYYY
 # image: more_berom_proverbs.jpeg
 categories: [Report, Neha, Fwom] # self-defined categories
 format: html
@@ -13,7 +13,7 @@ jupyter: python3
 
 ---
 
-:::: {.panel-tabset}
+::: {.panel-tabset}
 
 ### NEHA E RA FWOM DE BLTB A SE RA E SHEY ̀2025
 
@@ -44,6 +44,6 @@ We are waiting for the Foron zone which comprises of Bakin Kogi, Foron, Heipang,
 
 We shall continue to update you on the activity and progress of the work.
 
-::::
+:::
 
 
