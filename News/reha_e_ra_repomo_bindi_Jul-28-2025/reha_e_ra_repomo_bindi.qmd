@@ -3,7 +3,7 @@ title: "REHA E RA REPOMO BINDI HE SEGWOM VWEL SEL O HE RIYOM"
 author: 
     - "Sarah Niya"
 date: "28 July, 2025"
-date-format: MMM D, YYYY
+date-format: MMM YYYY
 categories: [Repomo, Ryom, Bemat gyeng netyang vwel] # self-defined categories
 format: html
 execute:
