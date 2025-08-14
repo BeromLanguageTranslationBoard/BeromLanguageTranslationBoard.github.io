@@ -1,0 +1,69 @@
+---
+title: "Batin Tsak Ha"
+author: 
+    - "Sarah Niya"
+date: "14 August 2025"
+date-format: MMM D, YYYY
+image: TheApostlesCreedBerom.jpeg
+categories: [Berom, English, Batin Tsak Ha, ] # self-defined categories
+format: html
+execute:
+    eval: true
+jupyter: python3
+
+---
+
+:::: {.panel-tabset}
+
+### Berom
+Ma sey tsak o na Dagwi Darwey Wo Reto Mwa,<br>
+yɛ de a yong lagwi na bajey mwa.<br>
+<br>
+Ma sey tsak o na Yɛsu Kristi,<br>
+hwêy Dagwi Darwey mot, yɛ nju mɛ,<br>
+de ba yong ɛ yi na Gabik Jɛrɛ.<br>
+Hwong Marya a tɔ ɛ.<br>
+A di reyɔm e jeng negwɔm Pɔntiyus Pilatus.<br>
+Ba kak ɛ e ra cɔgɔt, yɛ a ku, ba lɛrɛ revin mɛ e ji sak.<br>
+A yel e kwɔ̂n bevuvwel.<br>
+Tuk hê tat a sene yi e reku,<br>
+a tut vɔk e lagwi,<br>
+a sangal e vwɔ yegê Dagwi Darwey Wo Reto Mwa.<br>
+Yi e hwomo yɛ a rɔda to vɛ hɛ, na a bin ra a beken na bavin shɔt.<br>
+<br>
+Ma sey tsak o na Gabik Jɛrɛ,<br>
+ekilisiya wo jɛrɛ wo jey mwa,<br>
+nesâ vê jɛrɛ, halsâ banɛn,<br>
+sensâ babek, na neken gbak-gbak.<br>
+Ano.<br>
+
+
+
+### English
+I believe in God the Father Almighty,<br>
+maker of heaven and earth.<br>
+<br>
+And in Jesus Christ His only Son our Lord,<br>
+who was conceived by the Holy Spirit,<br>
+born of the virgin Mary.<br>
+He suffered under Pontius Pilate.<br>
+Was crucified died and buried,<br>
+He descended into Hades.<br>
+The third day He rose again from the dead,<br>
+He ascended into heaven,<br>
+seated at the right hand of God the Father Almighty.<br>
+From there He shall come to judge the living and the dead.<br>
+<br>
+I believe in the Holy Spirit,<br>
+the holy universal church,<br>
+the Communion of saints, the forgiveness of sins,<br>
+the resurrection of the body and the life everlasting.<br>
+Amen.<br>
+
+::::
+
+
+
+
+
+
