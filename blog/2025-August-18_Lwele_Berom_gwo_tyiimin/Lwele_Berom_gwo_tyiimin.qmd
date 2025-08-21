@@ -16,63 +16,63 @@ jupyter: python3
 :::: {.panel-tabset}
 
 ### Berom
-1.  A yin bemasi mwa ji jey,\<br\>
-    Na yin bemat lagwi.\<br\>
-    Wot rɔ̂ nɔ̂ng wa nerey aret?\<br\>
+1.  A yin bemasi mwa ji jey,<br>
+    Na yin bemat lagwi.<br>
+    Wot rɔ̂ nɔ̂ng wa nerey aret?<br>
     Yesu zong, Yesu, Yesu, Yesu Darwey mot.
 
-2.  Mwa yin vê nuha Darwey mot,\<br\>
-    Ye ngyek e de fwom me.\<br\>
-    Wot rɔ̂ nɔ̂ng wa nerey aret.\<br\>
+2.  Mwa yin vê nuha Darwey mot,<br>
+    Ye ngyek e de fwom me.<br>
+    Wot rɔ̂ nɔ̂ng wa nerey aret.<br>
     Yesu zong, Yesu, Yesu, Yesu Darwey mot.
 
-3.  Yin mwa de yin e somo hɛ,\<br\>
-    Na yin vê râ ye won.\<br\>
-    Wot rɔ̂ nɔ̂ng wa nerey aret?\<br\>
+3.  Yin mwa de yin e somo hɛ,<br>
+    Na yin vê râ ye won.<br>
+    Wot rɔ̂ nɔ̂ng wa nerey aret?<br>
     Yesu zong, Yesu, Yesu, Yesu Darwey mot.
 
-4.  Hwo Bitrus, hwo Istifanus,\<br\>
-    Bulus na bwang begwa.\<br\>
-    Wot rɔ̂ nɔ̂ng wa nerey aret?\<br\>
+4.  Hwo Bitrus, hwo Istifanus,<br>
+    Bulus na bwang begwa.<br>
+    Wot rɔ̂ nɔ̂ng wa nerey aret?<br>
     Yesu zong, Yesu, Yesu, Yesu Darwey mot.
 
-5.  Yerê bemasî mwa ji jey,\<br\>
-    Somo hin Darwey mot.\<br\>
-    Wot rɔ̂ nɔ̂ng wa nerey aret?\<br\>
+5.  Yerê bemasî mwa ji jey,<br>
+    Somo hin Darwey mot.<br>
+    Wot rɔ̂ nɔ̂ng wa nerey aret?<br>
     Yesu zong, Yesu, Yesu, Yesu Darwey mot.
 
 
 
 ### English
-1.  All hail the power of Jesus' name\!\<br\>
-    Let angels prostrate fall;\<br\>
-    Bring forth the royal diadem,\<br\>
-    And crown Him Lord of all\!
+1.  All hail the power of Jesus' name!<br>
+    Let angels prostrate fall;<br>
+    Bring forth the royal diadem,<br>
+    And crown Him Lord of all!
 
-2.  Crown Him, ye martyrs of our God,\<br\>
-    Who from His altar call;\<br\>
-    Extol the stem of Jesse's rod,\<br\>
-    And crown Him Lord of all\!
+2.  Crown Him, ye martyrs of our God,<br>
+    Who from His altar call;<br>
+    Extol the stem of Jesse's rod,<br>
+    And crown Him Lord of all!
 
-3.  Ye chosen seed of Israel's race,\<br\>
-    A remnant weak and small,\<br\>
-    Hail Him who saves you by His grace,\<br\>
-    And crown Him Lord of all\!
+3.  Ye chosen seed of Israel's race,<br>
+    A remnant weak and small,<br>
+    Hail Him who saves you by His grace,<br>
+    And crown Him Lord of all!
 
-4.  Ye Gentile sinners, ne'er forget,\<br\>
-    The wormwood and the gall;\<br\>
-    Go, spread your trophies at His feet,\<br\>
-    And crown Him Lord of all\!
+4.  Ye Gentile sinners, ne'er forget,<br>
+    The wormwood and the gall;<br>
+    Go, spread your trophies at His feet,<br>
+    And crown Him Lord of all!
 
-5.  Let every kindred, every tribe,\<br\>
-    On this terrestrial ball,\<br\>
-    To Him all Majesty ascribe,\<br\>
-    And crown Him Lord of all\!
+5.  Let every kindred, every tribe,<br>
+    On this terrestrial ball,<br>
+    To Him all Majesty ascribe,<br>
+    And crown Him Lord of all!
 
-6.  Oh that with yonder sacred throng,\<br\>
-    We at His feet may fall;\<br\>
-    Join in the everlasting song,\<br\>
-    And crown Him Lord of all\!
+6.  Oh that with yonder sacred throng,<br>
+    We at His feet may fall;<br>
+    Join in the everlasting song,<br>
+    And crown Him Lord of all!
 
 ::::
 
