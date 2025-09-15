@@ -4,7 +4,7 @@ author:
     - "Habila Dachollom"
 date: "SEPTEMBER 8, 2025"
 date-format: MMM D, YYYY
-image: won_Darwey.jpeg
+image: won_Darwey.png
 categories: [the Lord's Prayer, Won Darwey, ] # self-defined categories
 format: html
 execute:
