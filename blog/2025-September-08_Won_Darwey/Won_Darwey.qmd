@@ -1,0 +1,58 @@
+---
+title: "Won Darwey"
+author: 
+    - "Habila Dachollom"
+date: "SEPTEMBER 8, 2025"
+date-format: MMM D, YYYY
+image: won_Darwey.jpeg
+categories: [the Lord's Prayer, Won Darwey, ] # self-defined categories
+format: html
+execute:
+    eval: true
+jupyter: python3
+
+---
+
+
+:::: {.panel-tabset}
+
+### WON DARWEY
+
+A Da mot de a sé e ji lagwi ,<br>
+be tǝ̀  reza mo jere,<br>
+segwɔm mosē vey.<br>
+Pye de hwó simo be ra yɛ e jey,<br>
+sede remo de be dopse ra e lagwi.<br>
+Nɔ́ng ot yunung pyɛ́ mot yê kahɛ́ tuk.<br>
+Hala a wot banen mot,<br>
+sede remo de wot a hala a vemo de ba ra a wot banen.<br>
+Hwo wɔ na wot e kwɔ̂n setɔgɔs wɛt,<br>
+ko hwo sey ot yi e vwɔ̂ wo neves.<br>
+Yaga segwɔm,<br>
+na reto,<br>
+na nerey,<br>
+yen a sé bemo,<br>
+gbak jey.<br>
+Ano.
+
+### THE LORD'S PRAYER
+
+Our Father,<br>
+who art in heaven,<br>
+hallowed be your name.<br>
+Your kingdom come,<br>
+your will be done on earth,<br>
+as it is in heaven.<br>
+Give us this day,<br>
+our daily bread.<br>
+And forgive us our trespasses,<br>
+as we also forgive those who sin against us.<br>
+Lead us not into temptation but deliver us from evil.<br>
+For yours is the kingdom,<br>
+the power and the glory,<br>
+forever and ever,<br>
+Amen.
+
+::::
+
+*Edited by Lucky Zam*
