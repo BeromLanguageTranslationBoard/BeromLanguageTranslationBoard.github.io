@@ -1,0 +1,34 @@
+---
+title: "Vu de dyam mɛ"
+author: 
+    - name: "Habila Dachollom"
+date: "15 September 2025"
+date-format: MMM D, YYYY
+image: dyam_vu.png
+categories: [Berom, English, Lɛlɛ, Vu, Dyam, Money, beving, bekup, bones] # self-defined categories
+format: html
+execute:
+    eval: true
+jupyter: python3
+
+---
+
+:::: {.panel-tabset}
+
+### SƐLƐ RATO MO
+Vu na dyam mɛ ka a simo a re me beving ke bekup
+
+### HELP YOURSELF    
+A dog with it's own money can decide to eat stool or bones.
+
+::::
+
+If you are fond of criticizing people and doing nothing to improve the person being criticized, for example, the way a person spends his money, the way he/she cooks, the way the person dresses, etc. In defence, the person being criticized will reply the critic:
+
+*"Vu na dyam mɛ ka a simo a re beving ke bekup."*
+
+
+
+
+
+
