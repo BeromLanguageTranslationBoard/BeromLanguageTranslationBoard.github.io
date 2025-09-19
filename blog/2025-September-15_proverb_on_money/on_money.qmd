@@ -1,5 +1,5 @@
 ---
-title: "Vu de dyam mɛ"
+title: "Vu na dyam mɛ"
 author: 
     - name: "Habila Dachollom"
 date: "15 September 2025"
