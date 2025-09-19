@@ -5,7 +5,7 @@ author:
 date: "15 September 2025"
 date-format: MMM D, YYYY
 image: dyam_vu.png
-categories: [Berom, English, Lɛlɛ, Vu, Dyam, Money, beving, bekup, bones] # self-defined categories
+categories: [Vu, Dyam, Money, beving, bekup, bones] # self-defined categories
 format: html
 execute:
     eval: true
