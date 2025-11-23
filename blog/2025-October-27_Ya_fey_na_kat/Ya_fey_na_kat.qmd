@@ -1,0 +1,169 @@
+---
+title: "Ya fey na kat"
+author: 
+    - "Sarah Niya"
+date: "October 27, 2025"
+date-format: MMM D, YYYY
+image: ya_fey_na_kat.png
+categories: [Fey, Kat, Ya, Hare, Monkey, Story] # self-defined categories
+format: html
+execute:
+    eval: true
+jupyter: python3
+
+---
+
+
+:::: {.panel-tabset}
+
+### YA FEY NA KAT
+
+Jeng de swigi gwa vey , ko Fey na Kat ba how yare , kawɛ , e ji cap mɛ .<br>
+Kawɛ a tɛ̀ nefongol e ji cap yare mɛ naka , ko yare mo yê Kat ya dal yê Fey na nerat sizɔng , ya siri gwim-gwim yaga a tɛ̀ a yɛ yuk naka .<br>
+<br>
+Fey a di yarê Kat ya dal myɛ na nerat , ko a wɔ́ e lɔ Kat , a hwo kwɛlɛng hɛ , a yang ɛ , 'Gwɔ̀m a rini wɔgɔ , kawɛ mwat a tow yare mɛ e ji cap mɛ nahwol .<br>
+Mwat de a tow yare mɛ wɛt , ko bê vo ɛ̵ , be ra a yɛ shɔt , ko gak wɛt be tɛ̀ ɛ e ngyang yaga negbàrak .<br>
+<br>
+Kat a nusu bop nagasi , a hwo jut wal a kyè mɛ vɔk e hey .<br>
+A pom a hwo tow yare mo, a tala hwiri mo mwa .<br>
+<br>
+E bama jeng , Kat a ba di Fey a tow myɛ wɛt , ko a ye e ji yey mɛ , "Fey a kwɛlɛng me a! Hà háy , wot â man na yɛ!"<br>
+<br>
+Kat a hwo kyè , a wɔ̀ seres berugu , na bekpatak , na bekùndung beba , na bebong , na bwang pyɛ́ mo cak , ko a sila e bekùndung beba vane mo byɛrɛ .<br>
+E bama mo , a hwo cing revɔng , a hwo yila ɛ bekùndung vane mo e jimo , ko a bang na nefongol .<br>
+A hwo kye wɔ̄ e lɔ mɛ , a pom a yang dā mɛ na neng mɛ , "Wɔ̀ lɛrɛ hin e hworo e ji duk yaga Fey ê di in" .<br>
+Ko a kyè wɔ̄ e lɔ Fey o .<br>
+A pom a sɛ̀ ɛ e lɔ , ko a yang ɛ , "Var wɔ̀ ra a me toshô sesîn dā hom na nēng hom de ba ga kushu" .<br>
+<br>
+Fey a hwo sɛ̀ ɛ wɔ̄ e lɔ mɛ mo; yɛn a peres wɔ̄ e kwɔn de a lɛrɛ ɛ bekùndung o .<br>
+A pom a tut e ra rak o , ko a hwo lwɛlɛ sin:<br>
+<br>
+À dagwɔ , ye à dagwɔ ,<br>
+Ye nɔng me nerey .<br>
+À neng-gwɔ , ye à neng-gwɔ ,<br>
+Ye nɔng me nerey .<br>
+<br>
+À dagwɔ , ye à dagwɔ ,<br>
+Ye nɔng me nerey .<br>
+À neng-gwɔ , ye a neng-gwɔ ,<br>
+Ye nɔng me nerey .<br>
+<br>
+Jeng de a yɛnɛ lwɛlɛ sin o , ko a hwo kas sak o a pat bekùndung o e jey , a wunta vɛ̀ .<br>
+Ko Fey a di ndok nane e jimo pyak .<br>
+A yang Kat , "Nerey a nemo de dā mo na neng mo ba ga nɔng o a?"<br>
+Ko a ye, "Ey."<br>
+<br>
+Fey a hwo tele wɔ̄ e lɔ mɛ , a pom da mɛ , a pom dā mɛ na neng mɛ yɛn a sé sangal e de sɔ̂ tɛrɛ .<br>
+Ko a yang neng mɛ , "À neng , tik in sɔ̂ tɛrɛ mo na me mɔbɔs hin na me sɛ̀ nerey ."<br>
+Neng mɛ a yang ɛ , "Ya kukuuk! Hwô mɔbɔs hot de wot a tala ne?"<br>
+Fey a hwo jut kerum a rusu me neng mɛ, 'pɔk', a bomo 'kalas', a mɔrɔ , a to rusu dā mɛ 'pɔk', a bomo 'kalas', a mɔrɔ arɔng .<br>
+Ko a hwo hasha bavin o a hwo kas sak a lɛrɛ hɛn ɛ .<br>
+<br>
+E bama mo , a hwo kyè , a wɔ̀ yishi Kat , a yang ɛ , "Var a wot na hwo wɔ̀ ra a me sesîn dā hom na neng hom de ba ga kushu ."<br>
+Ko yɛn a hwo kyè vɔk e kwɔn de Fey a lɛrɛ ɛ dā na neng mɛ mo .<br>
+A pom a tut e ra rak o , a hwo lwɛlɛ sin:<br>
+<br>
+À dagwɔ , ye à dagwɔ ,<br>
+Ye nɔng me nerey .<br>
+À neng-gwɔ , ye ̀a neng-gwɔ ,<br>
+Ye nɔng me nerey .<br>
+<br>
+À dagwɔ , ye à dagwɔ ,<br>
+Ye nɔng me nerey .<br>
+À neng-gwɔ , ye à neng-gwɔ ,<br>
+Ye nɔng me nerey .<br>
+<br>
+A hwo kas sak o ko a di yìn dā mɛ na vê neng mɛ 'ngeeey'!<br>
+Ko a to bang; a to hwo lwɛlɛ mo .<br>
+A yě to kas , a to di tyɛng ano , vit a pyɛ́ mo .<br>
+<br>
+E bama mo , yɛn a hwo kyè wɔ̄ e lɔ Kat .<br>
+Yɛn a pom a sɛ̀ dâ Kat tanga neng mɛ e lɔ .<br>
+Ko Fey a yang Kat , "Ko sɛ̌ hwà kwɛlɛng me arɛt?"<br>
+<br>
+Kat a yang Fey , "Hwà kana kwɛlɛng me na me wɔ̀ tow yare hom e ji cap mwa me tala .<br>
+Yaga ano de ma kwɛlɛng hwo arɔng" .<br>
+<br>
+Fey a vɔk a kyè wɔ̄ e lɔ mɛ, a pom a tá ngyɔt yaga lashe yey , a vɔk a ku .<br>
+<br>
+Tala ma hane .<br>
+
+### THE STORY OF MR. HARE AND MR. MONKEY
+
+<br>
+When the rainy season arrived, Mr. Hare and Mr. Monkey each planted corn on his own farm.<br>
+Each of them cultivated the land very well, but Mr. Monkey's corn looked better and greener than Mr. Hare's because he applied enough manure.<br>
+<br>
+Mr. Hare saw that Mr. Monkey's corn was much better than his own, so he went to Mr. Monkey's house and deceived him.<br>
+He said to him, 'The King announced that everyone must cut down the corn in their farm tomorrow.<br>
+Anyone who does not cut his corn will be arrested, and if care is not taken, he will be put in prison for being stubborn.'<br>
+<br>
+Mr. Monkey got up very early in the morning, took his machete, and went to the farm.<br>
+He started cutting the corn until he had finished the whole farm.<br>
+<br>
+After some time, Mr. Monkey discovered that Mr. Hare did not cut his own corn.<br>
+He said to himself, 'Oh, so Mr. Hare deceived me! Okay, that's alright, we shall see!'<br>
+<br>
+Mr. Monkey left and went to buy clothes, shoes, two boxes, caps, and other things, and he filled those two boxes with the items.<br>
+Then he dug a hole and buried the two boxes.<br>
+He returned home and told his father and mother, "Go and hide inside the room so that Mr. Hare will not see you."<br>
+Then he went to Mr. Hare's house.<br>
+He met him at home and said to him, "Come and support me in mourning my father and mother who have died."<br>
+<br>
+Mr. Hare followed him to his house, and they went straight to the place where he had buried the boxes.<br>
+He climbed on top and started crying:<br>
+<br>
+Father, oh father,<br>
+Oh give me your blessings.<br>
+Mother, oh mother,<br>
+Oh give me your blessings.<br>
+<br>
+Father, oh father,<br>
+Oh give me your blessings.<br>
+Mother, oh mother,<br>
+Oh give me your blessings.<br>
+<br>
+When he had finished the mourning song, he dug up the grave, removed the boxes, and opened them.<br>
+Mr. Hare saw plenty of clothes inside.<br>
+He said to Mr. Monkey, "Are these the blessings that your father and mother gave you?"<br>
+And he replied, "Yes."<br>
+<br>
+Mr. Hare ran to his house and met his father and mother taking porridge.<br>
+He said to his mother, "Mother, you people should stop taking that porridge so I can kill you and get blessings."<br>
+His mother said to him, "Ya kukuuk! You will kill us? What have we done?"<br>
+<br>
+Mr. Hare took a pestle and hit his mother 'pok', and she fell 'kalas' and died.<br>
+He hit his father 'pok', and he fell 'kalas' and died also.<br>
+He carried the corpses, dug a grave, and buried them.<br>
+<br>
+After that, he went to call Mr. Monkey and said to him, "Come and support me in mourning my father and mother who have died."<br>
+So they went to the place where Mr. Hare had buried his father and mother.<br>
+He climbed on top of the place and started crying:<br>
+<br>
+Father, oh father,<br>
+Give me your blessings.<br>
+Mother, oh mother,<br>
+Give me your blessings.<br>
+<br>
+Father, oh father,<br>
+Give me your blessings.<br>
+Mother, oh mother,<br>
+Give me your blessings.<br>
+<br>
+He dug up the grave and saw the teeth of his father and mother 'ngeeey'!<br>
+He closed the grave and started crying again.<br>
+He tried to dig, but still saw the same thing; there was nothing else.<br>
+<br>
+After that, he went to Mr. Monkey's house.<br>
+He met Mr. Monkey's father and mother alive at home.<br>
+Mr. Hare said to Mr. Monkey, "So you deceived me?"<br>
+<br>
+Mr. Monkey said to Mr. Hare, "You first deceived me into cutting down my corn farm completely.<br>
+That was why I deceived you too."<br>
+<br>
+Mr. Hare left for his house.<br>
+On reaching home, he committed suicide out of anger and died.<br>
+<br>
+That's the end.
+
+::::
