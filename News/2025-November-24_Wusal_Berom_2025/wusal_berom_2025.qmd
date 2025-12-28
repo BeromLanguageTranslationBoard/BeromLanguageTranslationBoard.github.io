@@ -1,0 +1,36 @@
+---
+title: "Ya fey na kat"
+author: 
+    - "Sarah Niya"
+date: "November 24, 2025"
+date-format: MMM D, YYYY
+image: wusal_berom_2025.png
+categories: [Wusal Berom 2025, Bwok-Basa,] # self-defined categories
+format: html
+execute:
+    eval: true
+jupyter: python3
+
+---
+
+
+:::: {.panel-tabset}
+
+### WUSAL BEROM 2025
+
+Bá ra Wusal Berom 2025 tuk Wusal pɔlɔ pwɛl Shatat e pwɛl gwa Kuru na gwɛ gwining e shey hemo 9/11/2025. Bemat ba nusu yok-yok. Mwat de a basa na nɔng cap há mo yɛ a Rev.  Gyang Kala yi e Ekilisiya wo New Life Gospel Church for All Nations, ko mwat de a kỳe na Wusal o yɛ a Rev. Pam Markus yi e ECWA DCC Gwol. A jut basa mɛ yi e Bwok-Basa Tomong Betom Yɛsu 18:1-4. To Ha: "Mwat raa Dagwi Darwey na fwom vwɔ." 
+
+Wusal o há se naka, bemat bá nusu naka na be vey re a Dagwi fongol , ko a sè Berom zɔng wɛt a wuna na yére mo cak arɔng . Bá ra won yaga Vwel Nijeriya, na bak Vwel Plato, Gbɔng Gwɔm na segwɔm vwel Berom mwa, na Dâ Vwel Plato tanga Berom mwa e lɔ na e jey.
+
+Bá to ra won e ra Audio wo Bwok-Basa Dagwi Wuna  Roso na Pas o tuk Wusal o. Wot a nɔng Dagwi nerey yaga kayɛ pyɛ ya kyè naka gasi mo. 
+Kɔmiti yong Wusal wa gwɔrɔ yaga jamo sele yaga Wusal o ko bemat ba wut mā naka ba nɔngɔs yaga yong Wusal o. Begwa mot beba ba nɔng bedyam kare vwel (catapila) betat de bá kare a wot cwel o mwa. Kɔmiti mo wa ga to sè mwât wɔrɔ (Architect) womo de a ga to wɔrɔ a wot mwa pyɛ́ de wot e simo na wot yong kɛ wot lɔk e cwel o. Bemat bá vɔk yey pyɛng sizɔng yaga pyɛ de ba ga ra. Ko wot a sé tɛ̀ yey ka sede dyam ya yel ko wot ê pɛrɛ fwom e cwel o. Dâ Vwel Plato a vo nu ê nɔng ot dyam miliyɔn Naga gwining ko wot e ra won wɔgɔ yɛn a sila vô nu mɛn.
+
+### BEROM INTERDENOMINATIONAL SERVICE 2025
+
+The Berom Interdenominational Service 2025 was held on 9/11/2025. People came out in large numbers to attend the service. The preacher was Rev. Gyang Kala of the New Life Gospel Church for All Nations, and the service leader was Rev. Pam Markus of ECWA DCC Gwol. He took his reading from Acts 18:1-4. Topic: "The true worshipper of God and his handiwork." 
+
+The service was good and people came out to worship God. It was not only the Berom but other tribes too. Prayers were offered for Nigeria, Plateau State, the Gbong Gwom Jos and the traditional council in Berom Land, the Governor of Plateau State, and all Berom at home and in the diaspora. 
+
+Prayers were offered as the Audio Bible in Berom, both Old and New Testament, was dedicated on that day. We thank God for the success of the dedication. The Central Planning Committee of Wusal Berom 2025 went out to solicit support for the Wusal preparation and people supported by giving generously. Two of our sons gave us three (3) caterpillars that graded and leveled the field. The Committee also invited an architect who designed everything we need to build on the field. People were very happy and appreciated all that has been done. We are hopeful that if we get some finances, we will start something there. The Governor made a pledge of N100m Naira and we pray that it will be redeemed. This is the summary of what happened at Wusal Berom 2025.
+
+::::
