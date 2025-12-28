@@ -24,6 +24,7 @@ website:
 format:
   html:
     theme: cosmo
+    include-after-body: chatbot.html
     css: styles.css
     toc: true
 
