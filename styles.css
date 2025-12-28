@@ -1,1 +1,4 @@
-
+/* Add this to your styles.css */
+.pocket-flow-container, #pocket-flow-root {
+    z-index: 2147483647 !important; /* Maximum possible value */
+}
