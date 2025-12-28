@@ -4,7 +4,7 @@ author:
     - "Sarah Niya"
 date: "28 July, 2025"
 date-format: MMM D, YYYY
-categories: [Repomo, Ryom, Segwɔm Vwel, ] # self-defined categories
+categories: [Repomo, Riyom, Segwɔm Vwel, ] # self-defined categories
 format: html
 execute:
     eval: true
