@@ -179,6 +179,23 @@ ul.task-list li input[type="checkbox"] {
 
 
 </main> <!-- /main -->
+<script>
+(function() {
+    var script = document.createElement("script");
+    script.src = "https://askthispage.com/embed/chatbot.js";
+    script.onload = function() {
+        initializeChatbot({
+            extra_urls: ["https://beromlanguagetranslationboard.github.io/News/"],
+            prefixes: [],
+            chatbotName: 'BLTB',
+            wsUrl: 'wss://askthispage.com/api/ws/chat',
+            instruction: '',
+            isOpen: false
+        });
+    };
+    document.head.appendChild(script);
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
