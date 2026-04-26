@@ -13,8 +13,6 @@ jupyter: python3
 
 ---
 
-
-
 :::: {.panel-tabset}
 
 ### MƆBƆS E ANGWAN RUKUBA E PLATEAU STATE NIGERIA
@@ -45,7 +43,6 @@ Rim na Jol baga sɛsɛ̀m vesè be Danyi vey mɔbɔs hɛn. Kasi Gas Dyam 11th Ap
 
 Como e ra vwel Berom de be Danyi be vesè mɛ yase pyak mwa dano e Dagwi de e tow a wot como kayɛ jeng de yen ba vey.
 
-
 ### THE KILLINGS OF INNOCENT PEOPLE OF ANGWAN RUKUBA, JOS
 
 In recent times, Plateau State has witnessed another wave of brutal killings that has claimed the lives of many innocent people in cold blood. This is not to say that the killing has ever stopped at any point in time, but rather that this instance occurred on a large scale and in a place we least expected. 
@@ -73,5 +70,4 @@ Subsequently, on 5th April 2026, the assailants returned to Pwomol in Heipang in
 There have been serial attacks in Rim and Jol recently. One of these attacks took place on Saturday, 11th April 2026, where one young man was killed. Reports indicate that the attackers arrived in large numbers and struck Rim and Jol simultaneously, ensuring that no help could come from either village to the other. 
 
 By God's mercy, only one person fell into their hands that day before they were repelled. There are many such attacks unleashed on the Berom communities and villages, but God has been the one fighting for His people.
-
 ::::
