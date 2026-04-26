@@ -1,0 +1,77 @@
+---
+title: "MƆBƆS E ANGWAN RUKUBA E PLATEAU STATE NIGERIA"
+author: 
+    - "Habila Dachollom"
+date: "April 15, 2026"
+date-format: MMM D, YYYY
+image: JosIsBleeding.jpg
+categories: [mɔbɔs, lɛrɛ bavin, lusa bakɛt] # self-defined categories
+format: html
+execute:
+    eval: true
+jupyter: python3
+
+---
+
+
+
+:::: {.panel-tabset}
+
+### MƆBƆS E ANGWAN RUKUBA E PLATEAU STATE NIGERIA
+
+E nepɔlɔ nemo, Plateau State â tó dí lwel neves de ba mɔbɔs bemat de ba ra a mwat hwak pyɛ wɛt. Hemo ha dura wogo baga sáng sè sangal netyang e vwel o wɛt ko hemo ha vɛ̂ bemat hyɔt e kwong de ba rá bare he tɛ́ e hwomo wɛt.
+
+Á sè e kasi de be tang hɛ a Palm Sunday 29th March, 2026 sede jeng 7:15 ma sè jeng o visis wɛt, sede remo de bemat bá sè pɔɔ́nglɔ na sɔ gul e majey ko bá sè ra tomong mɛn ko bemat tes tɔ behak bayi yî e bedwa bol naas, na bol tat tanga behak e be bol bà ko ba hwo lusa bakɛt e ra bemat. Yen bá tabas pwepwe e ra kawe mwat ke hwa yi yi gwa ow. Hemo há tɛ́ ano yaga bemat bá sè toysa vey e lɔ yi e nedem detidetu ko ba pom a bajam ɛ e ra bemat be ves vemo de ba jut jeng e de tabas bemat sana ra a yen pye cak ko vit a bemat gyeng vwel na be sɛlɛ bemat.
+
+Be ras, be há na e nɛy ba wey e ji neves mɔbɔs háne kasi Palm Sunday na hwyegelek. Reha na dura wogo bemat de ba wey na yeng ba wul 35 ko pyak mɛn bá sesem baram detidetu. Hemo de há dal na ne mwishish hɛ a kuma hwak de á birɛ́ hwey me hining zong womo de á sè e lɔ sɛ tɔ́k hey University wo Jos e ji nevest nane mo.
+
+Yi e jeng hásá nehâ nemo Sey Gwom Plateau haga kána lɛrɛ bavin bemat e lɛrɛ nerey ko bwarwey vemo de bá sɛsɛm baram bagá pát ɛn e beduk hwal na be yeneng pege mɛn e nelɔ̀ mɛn. A sè e Se Gwom vwel Plateau hɛ de ha tala dyam behal o.
+
+#### MƆBƆS BEMAT SANA RA NEN BE HEIPANG BARKIN LADI PLATEAU STATE, JOS
+
+Pyɛ́ mó ya susu de be Danyi ba mɔbɔs beha beba de basè toyo naturuk yi nejik e Gas gwong Foron. bayi beha vemo beba bá sè toyo sede jeng 11:00 pm de be Danyi ba simo bewa mɔbɔ̀s Eney lɔ sɛ tɔ́k he Plateau State Polytechnic Barkin Ladi de baga tɔ́k ɛn na manas jɔgɔ neta kahɛ Kasi Tat Fwom e kwong so nshi feng hak de he bereng Lɔ sé tɔ́k o.
+
+kasi háne de pyɛ́ mo yá tɛ́ 3rd April, 2026 bá kána nong Ney Lɔ Sɛ́ tɔ́k o pɔng'o Nzem bare na Kak Darwey Yesu ko yeng a mang e de jɔgɔ netá mo kasi mo wɛt. Be Danyi mo bá kana kyè wɔ̀ mɔbɔ̀s Ney o e kwong jɔgɔ neta men ko yeng a vey sɛ̀ hɛn wɛt.
+
+Sede remo de yey men yâ sira hɛn na mɔbɔs bemat kasi mo ko e gwong men wɔ̀ toyo na be jama bemat ko yen a pom a jame e ra beha beba de base toyo yi e de nejik yen a hwo tabas hɛn na bakɛt. Hwá mo gwinin a pɛrɛ ku e den o ko gwinin o a sɛ̀sɛ̀m baram bakɛt ko bawɔ́ na yɛ e duk hwal de hase bagat.
+
+Sede remo de yen ba sirik na vemo de yen aga mɔrɔ wɛt ko yen a kâ gwong wɔ e lɔ Mwat shara Yɛgɛt Ryat hwak ko bawɔ rono lɔ me na be mɔbɔs hɛn. Á sè yina sɛlɛ be Dem tanga bemat gyeng vwel vey pomo de yen a de tele.
+
+Mwa dano kasi 5th April, 2026 be Danyi be ves ba to vey pyak a hɛn e Pwomol Heipang na yen a vey mɔbɔ̀s bemat. Kasi hane mo ba bire bemat be tat de yen á sè bemat dul bemat. Dagwi a sele yi na be Dem tanga bemat gyeng vwel ko yeng ba ro be Danyi mo. E bama mo naturuk kasi hane mo bá vo wɔ Danyi mo gwinin na nemyi e bɛk mɛ.
+
+#### MƆBƆS BEMAT E RIM NA JOL E RIYOM LGA PLATEAU STATE, JOS
+
+Rim na Jol baga sɛsɛ̀m vesè be Danyi vey mɔbɔs hɛn. Kasi Gas Dyam 11th April, 2026 de bemat be ves bá mɔrɔ mwat gwinin. Nèha nayi wogo bemat nyi bá vey hyot a hɛn na be vey wey na bemat ko Dagwi a sele e mwat gwinin zong de á wéy.
+
+Como e ra vwel Berom de be Danyi be vesè mɛ yase pyak mwa dano e Dagwi de e tow a wot como kayɛ jeng de yen ba vey.
+
+
+### THE KILLINGS OF INNOCENT PEOPLE OF ANGWAN RUKUBA, JOS
+
+In recent times, Plateau State has witnessed another wave of brutal killings that has claimed the lives of many innocent people in cold blood. This is not to say that the killing has ever stopped at any point in time, but rather that this instance occurred on a large scale and in a place we least expected. 
+
+It was on Palm Sunday, 29th March 2026, at approximately 7:15 pm (though I am not precise on the exact minute), when people were relaxing, taking in fresh air outside, and going about their normal duties. Suddenly, terrorists—under whatever guise—arrived in cars, Keke Napeps, and on motorbikes, and began to unleash bullets of all sorts on the people. They were shooting sporadically at all their victims, regardless of where they were coming from. The situation was worsened because many individuals were simply returning home from different locations, only to fall into the trap of these terrorists. The attackers spent a long time gunning down these innocent people without any intervention from security agencies.
+
+Men, women, and children became victims of this violent attack on that Palm Sunday evening. Reports indicate that over **35 people lost their lives** and many others were wounded. Most pathetic was the case of a widow who lost her only son, a 300-level student at the University of Jos. 
+
+As of the time of filing this report, all the victims have been honorably buried by the State Government. Most of the wounded have been discharged from the hospital and are gradually completing their treatment at home. The State Government covered the medical bills of all the wounded. Calm has since returned to the community, as security personnel were massively deployed to the area.
+
+#### THE KILLINGS OF INNOCENT PEOPLE IN HEIPANG, BARKIN LADI LGA
+
+It all started with the killing of two women at Foron Junction by Fulani attackers. These two women were traveling at about 11:00 pm. It is reported that the attackers had come to target students who usually hold a party every Wednesday at a "joint" opposite the Plateau State Polytechnic, Barkin Ladi.
+
+On that fateful day, 3rd March 2026, the students had been given an Easter break; hence, the party did not hold. The attackers had arrived to unleash mayhem on those at the party, but they found no one, as the students had all gone home for the break.
+
+Desperate to kill that day, the attackers went in search of other victims and encountered these two innocent ladies. They rained bullets upon them; one woman died instantly, while the other sustained bullet wounds and was taken to a nearby hospital for treatment.
+
+As if they were not satisfied with the number of victims, they proceeded to an Evangelist's house and surrounded it. However, with the intervention of soldiers and other security personnel, including vigilantes, they were repelled that day.
+
+Subsequently, on 5th April 2026, the assailants returned to Pwomol in Heipang in large numbers to attack innocent people. On that day, three people became victims as they unknowingly fell into the hands of these terrorists. Through the concerted efforts of security men and vigilantes, the attackers were again repelled. That night, one of the terrorists was apprehended with bloodstains by soldiers as he was retreating.
+
+#### THE ATTACKS IN RIM AND JOL OF RIYOM LGA, PLATEAU STATE
+
+There have been serial attacks in Rim and Jol recently. One of these attacks took place on Saturday, 11th April 2026, where one young man was killed. Reports indicate that the attackers arrived in large numbers and struck Rim and Jol simultaneously, ensuring that no help could come from either village to the other. 
+
+By God's mercy, only one person fell into their hands that day before they were repelled. There are many such attacks unleashed on the Berom communities and villages, but God has been the one fighting for His people.
+
+::::
