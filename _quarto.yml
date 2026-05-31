@@ -1,13 +1,32 @@
+
 project:
   type: website
-  resources: 
+  render:
+    - "*.qmd"
+    - "!AGENTS.md"
+    - "!README.md"
+  resources:
     - img/wurom_ase_wurom.jpeg
     - 404.html
+    - "!AGENTS.md"
+
+  preview:
+    port: 22223
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+  eval: false
 
 website:
-  title: "Berom Language and Translation Board"
-
+  title: "Berom Language & Translation Board"
+  description: "Preserving and promoting the Berom language through community contributions, translation, and digital resources."
+  site-url: https://beromlanguagetranslationboard.github.io
   favicon: /img/favicon.ico
+  image: img/BLTB_Logo2.jpg
+
   navbar:
     pinned: true
     logo: /img/BLTB_Logo_pure.jpg
@@ -21,12 +40,39 @@ website:
       - href: News/index.qmd
         text: News
 
+    right:
+      - icon: github
+        href: https://github.com/BeromLanguageTranslationBoard
+      - icon: envelope
+        aria-label: email
+        href: "mailto:berom.language@gmail.com"
+
+  search:
+    location: navbar
+    type: textbox
+
+  page-footer:
+    left: |
+      <span class="faux-block">&#169; 2024–2026 Berom Language & Translation Board</span>
+    right: |
+      <span class="faux-block">Built with <a href="https://quarto.org" target="_blank">Quarto</a></span>
+
+  back-to-top-navigation: true
+
+  repo-url: "https://github.com/BeromLanguageTranslationBoard/BeromLanguageTranslationBoard.github.io"
+  repo-actions: [edit, issue, source]
+
 format:
   html:
-    theme: cosmo
-    include-after-body: chatbot.html
-    css: styles.css
+    theme:
+      light: [cosmo, html/styles.scss]
+      dark: [cosmo, html/styles-dark.scss]
+    mainfont: Inter
+    monofont: "JetBrains Mono"
+    googlefonts: true
+    callout-style: simple
     toc: true
-
-
-
+    code-link: true
+    anchor-sections: true
+    footnotes-hover: true
+    page-layout: full

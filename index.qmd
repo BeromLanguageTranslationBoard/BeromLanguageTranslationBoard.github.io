@@ -1,3 +1,177 @@
+---
+title: "Home"
+image: img/BLTB_Logo2.jpg
+toc: false
+listing:
+  - id: latest-posts
+    contents:
+      - blog/2025-October-27_Ya_fey_na_kat
+      - blog/2025-September-15_proverb_on_money
+      - blog/2025-September-08_Won_Darwey
+      - blog/2025-August-18_Lwele_Berom_gwo_tyiimin
+      - blog/2025-August-14_The_Apostles_Creed
+      - blog/2025-July-21_Berom_Proverb
+      - blog/2025-June-25_Nepeng
+      - blog/2025-June-17_Lem_Berom
+      - blog/2025-April-25_Berom_Proverbs
+      - blog/2025-April-21_Berom_Poem
+      - blog/2025_March-31_Berom_Poem
+      - blog/2025-March-16_Berom_Poem
+      - blog/2025-March-06_Berom_Proverbs
+      - blog/2025-March-04_Ten_Commandments_in_Berom
+      - blog/2025-February-26_Berom_numbers
+    sort: "date desc"
+    type: default
+    max-items: 3
+  - id: latest-news
+    contents:
+      - News/2025-November-24_Wusal_Berom_2025
+      - News/Neha_e_ra_fwom_2025
+      - News/reha_e_ra_repomo_bindi_Jul-28-2025
+      - News/mɔbɔs_nepɔlɔ_nemo
+    sort: "date desc"
+    type: default
+    max-items: 2
+---
 
+::: {.hero-section}
 
-![](/img/BLTB_Logo2.jpg)
+# Berom Language &amp; Translation Board
+
+<p class="hero-tagline">Preserving Berom — One Paragraph at a Time</p>
+
+<p class="hero-subtitle">
+Building a growing repository of Berom-language text and translation resources,
+empowering the language for education, technology, and future generations.
+</p>
+
+<div class="hero-links">
+  <a href="/blog/" class="btn btn-primary">Read the Blog</a>
+  <a href="/about.qmd" class="btn btn-outline-primary">About the Board</a>
+  <a href="mailto:berom.language@gmail.com" class="btn btn-outline-secondary">Get Involved</a>
+</div>
+
+:::
+
+::: {.stats-bar}
+<div class="stat-item">
+  <div class="stat-number">1973</div>
+  <div class="stat-label">Founded</div>
+</div>
+<div class="stat-item">
+  <div class="stat-number">50+</div>
+  <div class="stat-label">Years of Work</div>
+</div>
+<div class="stat-item">
+  <div class="stat-number">17</div>
+  <div class="stat-label">Blog Posts</div>
+</div>
+<div class="stat-item">
+  <div class="stat-number">Bible</div>
+  <div class="stat-label">First Translation</div>
+</div>
+:::
+
+---
+
+::: {.content-section}
+
+<span class="section-label">Mission</span>
+
+### Our Work
+
+<div class="about-card">
+The Berom Language and Translation Board (BLTB) was founded in 1973 when the Summer Institute of Linguistics (SIL) assigned Ms Hanni Kuhn from Switzerland to work with the Berom people. Her mission: to write the Berom language in a modern script, and to translate the Bible and other literature into Berom.
+
+Today, the board continues this legacy — building a growing repository of Berom-language text resources, transforming Berom from a low-resourced language into a moderately resourced one and beyond. Every paragraph contributed strengthens the language for education, digital tools, and future generations.
+
+**Small steps, big impact — one paragraph at a time.**
+</div>
+
+:::
+
+---
+
+::: {.content-section-alt}
+
+<span class="section-label">Contribute</span>
+
+### How to Get Involved
+
+<p class="section-subtitle">We invite every Berom speaker to contribute at least one paragraph per week in Berom.</p>
+
+```{=html}
+<div class="exp-grid">
+
+<div class="exp-card">
+  <p class="exp-title">Write a Paragraph</p>
+  <p class="exp-institution">Any topic, any style</p>
+  <p class="exp-description">Diary entries, devotionals, news, poetry, stories, traditions, or opinions.</p>
+  <span class="exp-badge">Step 1</span>
+</div>
+
+<div class="exp-card">
+  <p class="exp-title">Email Your Contribution</p>
+  <p class="exp-institution">berom.language@gmail.com</p>
+  <p class="exp-description">Send your paragraph to us. Every word strengthens the language.</p>
+  <span class="exp-badge">Step 2</span>
+</div>
+
+<div class="exp-card">
+  <p class="exp-title">Spread the Word</p>
+  <p class="exp-institution">Invite others to join</p>
+  <p class="exp-description">Tell family, friends, and community. More contributors, richer language.</p>
+  <span class="exp-badge">Step 3</span>
+</div>
+
+<div class="exp-card">
+  <p class="exp-title">Future Goals</p>
+  <p class="exp-institution">Beyond text</p>
+  <p class="exp-description">Audio recordings, spell checkers, translation tools, digital library.</p>
+  <span class="exp-badge">Vision</span>
+</div>
+
+</div>
+```
+
+:::
+
+---
+
+::: {.content-section}
+
+<span class="section-label">Writing</span>
+
+### Latest Posts
+
+<p class="section-subtitle">Stories, reflections, and contributions from Berom sons and daughters across the world.</p>
+
+::: {#latest-posts}
+
+:::
+
+<p style="text-align: center; margin-top: 1.5rem;">
+  <a href="/blog/" class="btn btn-outline-primary">View All Posts</a>
+</p>
+
+:::
+
+---
+
+::: {.content-section-alt}
+
+<span class="section-label">News</span>
+
+### Latest News
+
+<p class="section-subtitle">Updates and announcements from the Berom Language and Translation Board.</p>
+
+::: {#latest-news}
+
+:::
+
+<p style="text-align: center; margin-top: 1.5rem;">
+  <a href="/News/" class="btn btn-outline-primary">View All News</a>
+</p>
+
+:::

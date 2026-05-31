@@ -1,16 +1,16 @@
 ---
-title: "Berom Blog Posts"
+title: "Blog"
 subtitle: "Posts written by the sons and daughters of Beromland"
 listing:
-  # contents: blog
+  contents: "."
   sort: "date desc"
   type: grid
-  image-align: right
-  max-description-length: 175
-  date-format: medium
-  categories: true
   sort-ui: false
-  filter-ui: false
+  filter-ui: true
+  categories: true
+  max-description-length: 180
+  date-format: medium
+  grid-columns: 2
 page-layout: full
 title-block-banner: true
 ---

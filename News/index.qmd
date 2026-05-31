@@ -1,16 +1,16 @@
 ---
 title: "BLTB News"
-# subtitle: "Posts written by the sons and daughters of Beromland"
+subtitle: "News and updates from the Berom Language and Translation Board"
 listing:
-  # contents: blog
+  contents: "."
   sort: "date desc"
-  type: default
-  image-align: right
-  max-description-length: 175
-  date-format: MMM YYYY
-  categories: true
+  type: grid
   sort-ui: false
-  filter-ui: false
+  filter-ui: true
+  categories: true
+  max-description-length: 180
+  date-format: medium
+  grid-columns: 2
 page-layout: full
 title-block-banner: true
 ---
