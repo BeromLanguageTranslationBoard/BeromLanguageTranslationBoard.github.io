@@ -1,1 +1,1 @@
-Sitemap: https://BeromLanguageTranslationBoard.github.io/sitemap.xml
+Sitemap: https://beromlanguagetranslationboard.github.io/sitemap.xml

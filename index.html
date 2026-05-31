@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Berom Language and Translation Board</title>
+<title>Home – Berom Language &amp; Translation Board</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -33,29 +33,34 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href=".//img/favicon.ico" rel="icon">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-f2e6e587acc15a86a82da3a38b1f103e.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-6f71449e07096edb43a4dcb7fb4b5b7e.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-f2e6e587acc15a86a82da3a38b1f103e.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-4897d45d2f75ed4f519693be625836c5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-a62e4e167bbd54057127b4869a091eb6.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-2b2872217dcdb1c418e5dd3612ea46ac.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-a62e4e167bbd54057127b4869a091eb6.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
   "panel-placement": "end",
-  "type": "overlay",
+  "type": "textbox",
   "limit": 50,
   "keyboard-shortcut": [
     "f",
     "/",
     "s"
   ],
-  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -70,12 +75,259 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-latest-posts .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="styles.css">
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-latest-posts'] = new List('listing-latest-posts', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-latest-news .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-latest-news'] = new List('listing-latest-news', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -87,7 +339,7 @@ ul.task-list li input[type="checkbox"] {
     <img src="./img/BLTB_Logo_pure.jpg" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Berom Language and Translation Board</span>
+    <span class="navbar-title">Berom Language &amp; Translation Board</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -113,49 +365,333 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">News</span></a>
   </li>  
 </ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/BeromLanguageTranslationBoard"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:berom.language@gmail.com"> <i class="bi bi-envelope" role="img" aria-label="email">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content column-page" id="quarto-document-content">
+
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Home</h1>
+</div>
+
+
+
+<div class="quarto-title-meta column-page">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="berom-language-translation-board" class="level1 hero-section">
+<h1>Berom Language &amp; Translation Board</h1>
+<p class="hero-tagline">
+Preserving Berom — One Paragraph at a Time
+</p>
+<p class="hero-subtitle">
+Building a growing repository of Berom-language text and translation resources, empowering the language for education, technology, and future generations.
+</p>
+<div class="hero-links">
+<p><a href="./blog/" class="btn btn-primary">Read the Blog</a> <a href="./about.html" class="btn btn-outline-primary">About the Board</a> <a href="mailto:berom.language@gmail.com" class="btn btn-outline-secondary">Get Involved</a></p>
+</div>
+</section>
+<div class="stats-bar">
+<div class="stat-item">
+<div class="stat-number">
+1973
+</div>
+<div class="stat-label">
+Founded
+</div>
+</div>
+<div class="stat-item">
+<div class="stat-number">
+50+
+</div>
+<div class="stat-label">
+Years of Work
+</div>
+</div>
+<div class="stat-item">
+<div class="stat-number">
+17
+</div>
+<div class="stat-label">
+Blog Posts
+</div>
+</div>
+<div class="stat-item">
+<div class="stat-number">
+Bible
+</div>
+<div class="stat-label">
+First Translation
+</div>
+</div>
+</div>
+<hr>
+<div class="content-section">
+<p><span class="section-label">Mission</span></p>
+<section id="our-work" class="level3">
+<h3 class="anchored" data-anchor-id="our-work">Our Work</h3>
+<div class="about-card">
+<p>The Berom Language and Translation Board (BLTB) was founded in 1973 when the Summer Institute of Linguistics (SIL) assigned Ms Hanni Kuhn from Switzerland to work with the Berom people. Her mission: to write the Berom language in a modern script, and to translate the Bible and other literature into Berom.</p>
+<p>Today, the board continues this legacy — building a growing repository of Berom-language text resources, transforming Berom from a low-resourced language into a moderately resourced one and beyond. Every paragraph contributed strengthens the language for education, digital tools, and future generations.</p>
+<p><strong>Small steps, big impact — one paragraph at a time.</strong></p>
+</div>
+</section>
+</div>
+<hr>
+<div class="content-section-alt">
+<p><span class="section-label">Contribute</span></p>
+<section id="how-to-get-involved" class="level3">
+<h3 class="anchored" data-anchor-id="how-to-get-involved">How to Get Involved</h3>
+<p class="section-subtitle">
+We invite every Berom speaker to contribute at least one paragraph per week in Berom.
+</p>
+<div class="exp-grid">
+
+<div class="exp-card">
+  <p class="exp-title">Write a Paragraph</p>
+  <p class="exp-institution">Any topic, any style</p>
+  <p class="exp-description">Diary entries, devotionals, news, poetry, stories, traditions, or opinions.</p>
+  <span class="exp-badge">Step 1</span>
+</div>
+
+<div class="exp-card">
+  <p class="exp-title">Email Your Contribution</p>
+  <p class="exp-institution">berom.language@gmail.com</p>
+  <p class="exp-description">Send your paragraph to us. Every word strengthens the language.</p>
+  <span class="exp-badge">Step 2</span>
+</div>
+
+<div class="exp-card">
+  <p class="exp-title">Spread the Word</p>
+  <p class="exp-institution">Invite others to join</p>
+  <p class="exp-description">Tell family, friends, and community. More contributors, richer language.</p>
+  <span class="exp-badge">Step 3</span>
+</div>
+
+<div class="exp-card">
+  <p class="exp-title">Future Goals</p>
+  <p class="exp-institution">Beyond text</p>
+  <p class="exp-description">Audio recordings, spell checkers, translation tools, digital library.</p>
+  <span class="exp-badge">Vision</span>
+</div>
+
+</div>
+</section>
+</div>
+<hr>
+<div class="content-section">
+<p><span class="section-label">Writing</span></p>
+<section id="latest-posts" class="level3">
+<h3 class="anchored" data-anchor-id="latest-posts">Latest Posts</h3>
+<p class="section-subtitle">
+Stories, reflections, and contributions from Berom sons and daughters across the world.
+</p>
+<div id="listing-latest-posts" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="RmV5JTJDS2F0JTJDWWElMkNIYXJlJTJDTW9ua2V5JTJDU3Rvcnk=" data-listing-date-sort="1761523200000" data-listing-file-modified-sort="1780234055951" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1267">
+<div class="thumbnail"><a href="./blog/2025-October-27_Ya_fey_na_kat/Ya_fey_na_kat.html" class="no-external">
+
+<img loading="lazy" src="./blog/2025-October-27_Ya_fey_na_kat/ya_fey_na_kat.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog/2025-October-27_Ya_fey_na_kat/Ya_fey_na_kat.html" class="no-external">Ya fey na kat</a>
+</h3>
+<div class="delink listing-description"><a href="./blog/2025-October-27_Ya_fey_na_kat/Ya_fey_na_kat.html" class="no-external">
+Jeng de swigi gwa vey, ko Fey na Kat ba how yare, kawɛ, e ji cap mɛ.<br> Kawɛ a tɛ̀ nefongol e ji cap yare mɛ naka, ko yare mo yê Kat ya dal yê Fey na nerat sizɔng, ya siri…<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./blog/2025-October-27_Ya_fey_na_kat/Ya_fey_na_kat.html" class="no-external">
+<div class="listing-date">
+Oct 27, 2025
+</div>
+<div class="listing-author">
+Sarah Niya
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="VnUlMkNEeWFtJTJDTW9uZXklMkNiZXZpbmclMkNiZWt1cCUyQ2JvbmVz" data-listing-date-sort="1757894400000" data-listing-file-modified-sort="1780234055989" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="87">
+<div class="thumbnail"><a href="./blog/2025-September-15_proverb_on_money/on_money.html" class="no-external">
+
+<img loading="lazy" src="./blog/2025-September-15_proverb_on_money/dyam_vu.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog/2025-September-15_proverb_on_money/on_money.html" class="no-external">Vu na dyam mɛ</a>
+</h3>
+<div class="delink listing-description"><a href="./blog/2025-September-15_proverb_on_money/on_money.html" class="no-external">
+Vu na dyam mɛ ka a simo a re me beving ke bekup
+</a></div>
+</div>
+<div class="metadata">
+<a href="./blog/2025-September-15_proverb_on_money/on_money.html" class="no-external">
+<div class="listing-date">
+Sep 15, 2025
+</div>
+<div class="listing-author">
+Habila Dachollom
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="dGhlJTIwTG9yZCdzJTIwUHJheWVyJTJDV29uJTIwRGFyd2V5" data-listing-date-sort="1757289600000" data-listing-file-modified-sort="1780234055976" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="139">
+<div class="thumbnail"><a href="./blog/2025-September-08_Won_Darwey/Won_Darwey.html" class="no-external">
+
+<img loading="lazy" src="./blog/2025-September-08_Won_Darwey/won_Darwey.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog/2025-September-08_Won_Darwey/Won_Darwey.html" class="no-external">Won Darwey</a>
+</h3>
+<div class="delink listing-description"><a href="./blog/2025-September-08_Won_Darwey/Won_Darwey.html" class="no-external">
+A Da mot de a sé e ji lagwi ,<br> be tǝ̀ reza mo jere,<br> segwɔm mosē vey.<br> Pye de hwó simo be ra yɛ e jey,<br> sede remo de be dopse ra e lagwi.<br> Nɔ́ng ot yunung pyɛ́ mot yê kahɛ́ tuk.<br> H…<br><br><br><br><br><br><br><br><br>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./blog/2025-September-08_Won_Darwey/Won_Darwey.html" class="no-external">
+<div class="listing-date">
+Sep 8, 2025
+</div>
+<div class="listing-author">
+Habila Dachollom
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+<p style="text-align: center; margin-top: 1.5rem;">
+<a href="./blog/" class="btn btn-outline-primary">View All Posts</a>
+</p>
+</section>
+</div>
+<hr>
+<div class="content-section-alt">
+<p><span class="section-label">News</span></p>
+<section id="latest-news" class="level3">
+<h3 class="anchored" data-anchor-id="latest-news">Latest News</h3>
+<p class="section-subtitle">
+Updates and announcements from the Berom Language and Translation Board.
+</p>
+<div id="listing-latest-news" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="bSVDOSU5NGIlQzklOTRzJTJDbCVDOSU5QnIlQzklOUIlMjBiYXZpbiUyQ2x1c2ElMjBiYWslQzklOUJ0" data-listing-date-sort="1776211200000" data-listing-file-modified-sort="1780234055881" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1387">
+<div class="thumbnail"><a href="./News/mɔbɔs_nepɔlɔ_nemo/mɔbɔs_nepɔlɔ nemo.html" class="no-external">
+
+<img loading="lazy" src="./News/mɔbɔs_nepɔlɔ_nemo/JosIsBleeding.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./News/mɔbɔs_nepɔlɔ_nemo/mɔbɔs_nepɔlɔ nemo.html" class="no-external">MƆBƆS E ANGWAN RUKUBA E PLATEAU STATE NIGERIA</a>
+</h3>
+<div class="delink listing-description"><a href="./News/mɔbɔs_nepɔlɔ_nemo/mɔbɔs_nepɔlɔ nemo.html" class="no-external">
+E nepɔlɔ nemo, Plateau State â tó dí lwel neves de ba mɔbɔs bemat de ba ra a mwat hwak pyɛ wɛt. Hemo ha dura wogo baga sáng sè sangal netyang e vwel o wɛt ko hemo ha vɛ̂…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./News/mɔbɔs_nepɔlɔ_nemo/mɔbɔs_nepɔlɔ nemo.html" class="no-external">
+<div class="listing-date">
+Apr 15, 2026
+</div>
+<div class="listing-author">
+Habila Dachollom
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="V3VzYWwlMjBCZXJvbSUyMDIwMjUlMkNCd29rLUJhc2E=" data-listing-date-sort="1763942400000" data-listing-file-modified-sort="1780234055880" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="562">
+<div class="thumbnail"><a href="./News/2025-November-24_Wusal_Berom_2025/wusal_berom_2025.html" class="no-external">
+
+<img loading="lazy" src="./News/2025-November-24_Wusal_Berom_2025/wusal_berom_2025.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./News/2025-November-24_Wusal_Berom_2025/wusal_berom_2025.html" class="no-external">Wusal Berom 2025</a>
+</h3>
+<div class="delink listing-description"><a href="./News/2025-November-24_Wusal_Berom_2025/wusal_berom_2025.html" class="no-external">
+Bá ra Wusal Berom 2025 tuk Wusal pɔlɔ pwɛl Shatat e pwɛl gwa Kuru na gwɛ gwining e shey hemo 9/11/2025. Bemat ba nusu yok-yok. Mwat de a basa na nɔng cap há mo yɛ a…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./News/2025-November-24_Wusal_Berom_2025/wusal_berom_2025.html" class="no-external">
+<div class="listing-date">
+Nov 24, 2025
+</div>
+<div class="listing-author">
+Sarah Niya
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+<p style="text-align: center; margin-top: 1.5rem;">
+<a href="./News/" class="btn btn-outline-primary">View All News</a>
+</p>
+</section>
+</div>
 
 
 
 
-<p><img src="./img/BLTB_Logo2.jpg" class="img-fluid"></p>
-
-
-
-</main> <!-- /main -->
-<script>
-(function() {
-    var script = document.createElement("script");
-    script.src = "https://askthispage.com/embed/chatbot.js";
-    script.onload = function() {
-        initializeChatbot({
-            extra_urls: ["https://beromlanguagetranslationboard.github.io/News/"],
-            prefixes: [],
-            chatbotName: 'BLTB',
-            wsUrl: 'wss://askthispage.com/api/ws/chat',
-            instruction: '',
-            isOpen: false
-        });
-    };
-    document.head.appendChild(script);
-})();
-</script>
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
     const icon = "";
     const anchorJS = new window.AnchorJS();
     anchorJS.options = {
@@ -227,7 +763,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/BeromLanguageTranslationBoard\.github\.io\/");
+        var filterRegex = new RegExp("https:\/\/beromlanguagetranslationboard\.github\.io");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -555,6 +1091,19 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p><span class="faux-block">© 2024–2026 Berom Language &amp; Translation Board</span></p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    <div class="toc-actions"><ul><li><a href="https://github.com/BeromLanguageTranslationBoard/BeromLanguageTranslationBoard.github.io/edit/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/BeromLanguageTranslationBoard/BeromLanguageTranslationBoard.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/BeromLanguageTranslationBoard/BeromLanguageTranslationBoard.github.io/blob/main/index.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
+    <div class="nav-footer-right">
+<p><span class="faux-block">Built with <a href="https://quarto.org" target="_blank">Quarto</a></span></p>
+</div>
+  </div>
+</footer>
 
 
 
