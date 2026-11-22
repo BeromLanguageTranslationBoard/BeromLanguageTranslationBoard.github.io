@@ -587,73 +587,11 @@ a.external::after { content: " ↗"; font-size: 0.75em; opacity: 0.5; }
     display: none;
   }
 }
-// Homepage listing items — uniform card heights
-#latest-posts .list,
-#latest-news .list {
-  display: flex;
-  flex-direction: column;
-  gap: 0;
-  align-items: stretch;
-}
 
-#latest-posts .quarto-post,
-#latest-news .quarto-post {
-  flex: 1;
-  flex-direction: column;
-  gap: 0.25rem;
-  margin-bottom: 1rem;
-  padding: 1.25rem 1.5rem;
-  border: 1px solid $cream-200;
-  border-radius: 1rem;
-  background: $white;
-  box-shadow: 0 2px 12px rgba(92, 45, 30, 0.06);
-  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
-
-  &:hover {
-    transform: translateY(-2px);
-    box-shadow: $box-shadow-lg;
-    border-color: $primary;
-  }
-
-  .body {
-    flex-basis: auto;
-    flex-grow: 1;
-
-    .listing-title {
-      font-family: $headings-font-family;
-      font-weight: 700;
-      font-size: 1.05rem;
-      margin-bottom: 0.2rem;
-
-      a { color: $mahogany-950; }
-      a:hover { color: $primary; }
-    }
-
-    .listing-subtitle {
-      display: none;
-    }
-
-    .listing-description {
-      display: none;
-    }
-  }
-
-  .metadata {
-    flex-basis: auto;
-    font-family: $font-family-sans-serif;
-    font-size: 0.8rem;
-    color: $stone-500;
-    margin-top: 0.25rem;
-  }
-
-  .thumbnail {
-    display: none;
-  }
-}
 // Responsive
 @media (max-width: 768px) {
   .hero-section {
-    padding: 4rem 0 3rem;
+    padding: 3rem 0 2.5rem;
     h1 { font-size: 2rem; }
     .hero-tagline { font-size: 1.1rem; }
   }
@@ -663,5 +601,110 @@ a.external::after { content: " ↗"; font-size: 0.75em; opacity: 0.5; }
   .stats-bar {
     gap: 1.5rem;
     .stat-number { font-size: 1.5rem; }
+  }
+  .exp-grid { grid-template-columns: 1fr; }
+}
+
+// Phones
+@media (max-width: 480px) {
+  // The homepage title block repeats the hero heading; reclaim the first screen.
+  body:has(.hero-section) #title-block-header { display: none; }
+
+  .hero-section {
+    padding: 1.75rem 0 2rem;
+
+    h1 { font-size: 1.85rem; line-height: 1.15; }
+    .hero-tagline { font-size: 1rem; }
+    .hero-subtitle {
+      font-size: 1rem;
+      line-height: 1.55;
+      margin-bottom: 1.5rem;
+    }
+  }
+
+  // Stack the calls to action; equal heights, full-width touch targets.
+  .hero-links {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.7rem;
+
+    .btn {
+      width: 100%;
+      height: 3.25rem;
+      padding: 0 1rem;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }
+    // keep the solid button the same height as the outlined ones
+    .btn-primary { border: 1px solid transparent; }
+  }
+
+  // Four stats side by side are unreadable at this width: 2 x 2.
+  .stats-bar {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.5rem 1rem;
+    padding: 1.75rem 0;
+    margin: 1.5rem 0;
+
+    .stat-item { min-width: 0; }
+    .stat-number { font-size: 1.65rem; }
+    .stat-label { font-size: 0.72rem; letter-spacing: 0.03em; }
+  }
+
+  .content-section,
+  .content-section-alt,
+  .content-section-dark { padding: 2.25rem 0; }
+
+  .about-card { padding: 1.25rem; }
+  .exp-card { padding: 1.1rem 1.25rem; }
+
+  #latest-posts .quarto-post,
+  #latest-news .quarto-post { padding: 1rem 1.1rem; }
+
+  .navbar-title { font-size: 0.9rem; }
+
+  .section-subtitle { font-size: 0.95rem; }
+
+  // Card text: a little more air, and room for the step badge
+  .about-card { line-height: 1.7; }
+  .exp-title { padding-right: 3.5rem; }
+
+  #latest-posts .quarto-post .metadata,
+  #latest-news .quarto-post .metadata {
+    font-size: 0.82rem;
+    color: $stone-600;
+  }
+
+  // Secondary calls to action still need a 44px touch target
+  .content-section .btn,
+  .content-section-alt .btn { min-height: 2.75rem; padding: 0.6rem 1.5rem; }
+
+  // Footer: stack the three blocks instead of squeezing them into columns
+  .nav-footer {
+    padding: 2rem 0 1.5rem;
+
+    .nav-footer-left,
+    .nav-footer-center,
+    .nav-footer-right { flex: 1 1 100%; text-align: center; }
+
+    .nav-footer-center .toc-actions ul {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.4rem 1rem;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+
+      li { flex: 0 0 auto; margin: 0; }
+    }
+
+    .toc-actions a {
+      display: inline-block;
+      padding: 0.3rem 0;
+      font-size: 0.85rem;
+    }
   }
 }
