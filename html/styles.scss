@@ -136,6 +136,16 @@ body {
   }
 }
 
+// Mobile: an open menu must push the page down, not spill over the hero.
+// The fixed 4rem height + fixed header left the collapsed menu floating on
+// top of page content with a transparent background.
+@media (max-width: 991.98px) {
+  body { padding-top: 0 !important; }
+  header.headroom.fixed-top { position: sticky !important; top: 0; }
+  .navbar { height: auto; min-height: 4rem; }
+  .navbar-brand-logo { flex-shrink: 0; }
+}
+
 // Hero
 .hero-section {
   padding: 6rem 0 5rem;
